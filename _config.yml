@@ -23,7 +23,7 @@ github_username:  raspstephan
 
 # Build settings
 markdown: kramdown
-theme: Cayman
+theme: minima
 gems:
   - jekyll-feed
 exclude:
