@@ -4,6 +4,14 @@ title: Research
 permalink: /research/
 ---
 
+## Current research projects
+
+
+---
+
+## Previous research projects
+
+
 
 ## Stochastic boundary layer perturbations in convecton-permitting simulations
 
