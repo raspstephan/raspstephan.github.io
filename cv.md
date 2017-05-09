@@ -4,6 +4,8 @@ title: CV / Publications
 permalink: /cv/
 ---
 
+![animation]({{ site.url }}/assets/portrait.jpg) 
+
 ### Peer-reviewed publications
 
 **Rasp, S.**, Selz, T. and Craig, G.C., 2016. *Convective and Slantwise Trajectory Ascent in Convection-Permitting Simulations of Midlatitude Cyclones.* Monthly Weather Review, 144(10), 3961-3976. DOI: [http://dx.doi.org/10.1175/MWR-D-16-0112.1](http://dx.doi.org/10.1175/MWR-D-16-0112.1)  
