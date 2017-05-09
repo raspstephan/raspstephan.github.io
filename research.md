@@ -35,10 +35,13 @@ In this project, we are investigating the clustering and variability of continen
 
 The first key result of our research is that for summertime convection, there is a stong diurnal variation in the clustering of clouds. As convection is strongest (from noon to early afternoon) convection is only weakly organized. In the evening hour, however, clouds become strongly clustered.
 
+![animation]({{ site.url }}/assets/organization.png)  
+*This figure shows the diurnal variation of organization. Values above 1 indicate that convection is more clustered than random, while values below 1 indicate a more regular cloud spacing. Additionally, you can see that the scale matters! This indicates that there is a typical cloud cluster size.*  
+
 The second focus of our research was to test the theory of convective variability proposed by [Craig and Cohen (2006)](http://dx.doi.org/10.1175/JAS3709.1). This theory assumes a very simple model of atmospheric convection based on statistical physics. Its predictions agree well with convection-permitting simulations of radiative convective equilibrium. We find that the basic assumptions still hold well for our much more complex simulations, but adjustments need to be made for the changes in convective clustering. This result further supports ongoing development and use of the stochastic convection parameterization by [Plan and Craig (2008)](http://dx.doi.org/10.1175/2007JAS2263.1)
 
-**Current status**
-Weare currently fine-tuning our analysis and writing up the results for publication!
+**Current status**  
+We are currently fine-tuning our analysis and writing up the results for publication!
 
 ## Previous research
 
