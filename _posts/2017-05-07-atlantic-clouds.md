@@ -27,5 +27,5 @@ As I was looking at these clouds now through my (electronically dimmable!) airpl
 ![animation]({{ site.url }}/assets/atlantic6.jpg) 
 *A little bit after crossing the Southern tip of Iceland, some amazing wave structures.*
 
-![animation]({{ site.url }}/assets/atlantic7.gif)   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g-iNcH-DXaw" frameborder="0" allowfullscreen></iframe>   
 *Finally, a time-lapse of some boundary layer clouds as we were waiting for a gate in San Francisco.*
