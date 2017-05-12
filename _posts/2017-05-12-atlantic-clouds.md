@@ -2,7 +2,7 @@
 layout: post
 title:  "Atlantic clouds"
 comments: true
-date:   2017-05-07 11:25:57 -0700
+date:   2017-05-12 09:25:57 -0700
 ---
 
 Recently, I found myself on a plane crossing the Atlantic. As I was looking out of the window I was struck by some spectacular views of the clouds beneath us, particularly shallow cumulus. In fact, for the majority of our time above the ocean, the atmosphere beneath us was covered in sheets of continuous or broken-up stratocumulus. 
