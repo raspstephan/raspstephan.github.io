@@ -15,12 +15,17 @@ permalink: /cv/
 
 ### Conference presentations
 
-**COSMO/CLM/ART User Seminar**, DWD Offenbach, March 2017  
+**COSMO/CLM/ART User Seminar**, DWD Offenbach, Germany, March 2017  
 *COSMO-KENDA experiments with a stochastic boundary layer perturbation scheme*  
 Oral presentation  
 
 
-**DACH**, DWD Offenbach, Germany, March 2016  
+**Waves to Weather 2nd Annual Meeting**, Speyer, Germany, November 2016
+*Convective variability in real mid-latitude weather*
+Oral presentation
+
+
+**DACH**, Berlin, Germany, March 2016  
 *Der Einfluss eines physikalischen, stochastischen Störungenschemas auf das Störungswachstum in einem konvektiv-skaligen Modell*  
 Oral presentation 
 
@@ -30,7 +35,7 @@ Oral presentation
 Poster presentation  
 
 
-**PANDOWAE Final Symposium**, Karlsruhe, May 2015  
+**PANDOWAE Final Symposium**, Karlsruhe, Germany, May 2015  
 *High-resolution trajectory analysis of vertical motions in different weather situations*  
 Poster presentation  
 
