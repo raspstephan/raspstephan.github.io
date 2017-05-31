@@ -16,13 +16,13 @@ permalink: /cv/
 ### Conference presentations
 
 **COSMO/CLM/ART User Seminar**, DWD Offenbach, Germany, March 2017  
-*COSMO-KENDA experiments with a stochastic boundary layer perturbation scheme*  
+*COSMO-KENDA experiments with a stochastic boundary layer perturbation scheme*   
 Oral presentation  
 
 
-**Waves to Weather 2nd Annual Meeting**, Speyer, Germany, November 2016
-*Convective variability in real mid-latitude weather*
-Oral presentation
+**Waves to Weather 2nd Annual Meeting**, Speyer, Germany, November 2016  
+*Convective variability in real mid-latitude weather*  
+Oral presentation  
 
 
 **DACH**, Berlin, Germany, March 2016  
