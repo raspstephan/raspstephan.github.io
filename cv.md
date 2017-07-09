@@ -43,7 +43,7 @@ Poster presentation
 
 **Future of Cumulus Parameterization Workshop**, Delft, Netherlands, July 2017
 *Variability of Mid-Latitude Summertime Convection  
-Poster presentation
+Poster presentation   
 To cite and download: [https://doi.org/10.6084/m9.figshare.5188351.v1](https://doi.org/10.6084/m9.figshare.5188351.v1)
 
 
