@@ -2,10 +2,10 @@
 layout: post
 title:  "Reproducibility, Part 1 - What is it and how to start?"
 comments: true
-date:   2017-07-09 02:00:00 -0700
+date:   2017-07-09 09:00:00 -0000
 ---
 
-*Before I start let me thank and give credit to [Sebastian Lerch](https://sites.google.com/site/sebastianlerch/) of the Heidelberg Institute for Theoretical Studies (HITS), whose slides on the topics served as an inspiration for this post, and [Georgios Fragkoulidis](http://www.w2w.meteo.physik.uni-muenchen.de/people/phd_students/fragkoulidis_georgios/index.html) of Johannes Gutenberg-University in Mainz for initiation our discussion on the topic at the Early Career Scientist meeting of our project [Waves to Weather](http://www.w2w.meteo.physik.uni-muenchen.de) this spring.*   
+*Before I start let me thank and give credit to [Sebastian Lerch](https://sites.google.com/site/sebastianlerch/) of the Heidelberg Institute for Theoretical Studies (HITS), whose slides on the topics served as an inspiration for this post, and [Georgios Fragkoulidis](http://www.w2w.meteo.physik.uni-muenchen.de/people/phd_students/fragkoulidis_georgios/index.html) of Johannes Gutenberg-University in Mainz for initiating our discussion on the topic at the Early Career Scientist meeting of our project [Waves to Weather](http://www.w2w.meteo.physik.uni-muenchen.de) this spring.*   
 
 Science has a “reproducibility crisis”. Several high-publicity reports have emerged over the last few years, claiming that many results published in scientific journals cannot be reproduced. Take [this](http://www.bbc.com/news/science-environment-39054778) as an example or just google *reproducibility crisis* for a variety of recent articles. While the life sciences were hit hardest by this criticism, common practices in computational science - which includes most of weather and climate research - were also heavily scrutinized.    
 
@@ -31,11 +31,11 @@ This means that the scientific method is at stake. Failure to disclose all infor
 
 There are also practical reasons for implementing reproducibility.
 
-Computational reproducibility requires, well written and documented code, which can reduce errors. Code can then also be shared more easily.
+Computational reproducibility requires well written and documented code which can reduce errors. Code can then also be shared more easily.
 
 Clear documentation of how figures were produced also makes it easier for new researchers to pick up the research of departed colleagues. This is particularly relevant in multi-stage projects, such as our Waves to Weather project.
 
-Finally, reproducible analysis is also good advertisement: First, for the science itself. It shows that considerable care has been taken producing and analyzing the data, which lends credibility to the results. And second, personally as it shows commitment to careful work.
+Finally, reproducible analysis is good advertisement: First, for the science itself. It shows that considerable care has been taken producing and analyzing the data, which lends credibility to the results. And second, personally as it shows commitment to careful work to potential future employers.
 
 So all these points sound pretty good, but why do we see reproducibility so rarely in action?
 
@@ -53,11 +53,11 @@ Most of us spend a large portion of their time writing code, but very few have r
 
 Luckily, some very useful resources have been published recently, which offer concrete guidelines and advice to write better, reproducible code.
 
-First, I would like to highlight the two papers on *Scientific Computing* by Greg Wilson et al. ([Part 1](https://doi.org/10.1371/journal.pbio.1001745) and [Part 2](https://arxiv.org/abs/1609.00037)). They give short, practical tips on how to write better code, step by step. The papers are short and easy to read. I would definitely recommend checking them out!
+First, I would like to highlight the two papers on *Scientific Computing* by Greg Wilson et al. ([Part 1](https://doi.org/10.1371/journal.pbio.1001745) and [Part 2](https://arxiv.org/abs/1609.00037)). They give practical tips on how to write better code, step by step. The papers are short and easy to read. I would definitely recommend checking them out!
 
 I would like to focus on another recently published paper by [Damien Irving](https://drclimate.wordpress.com), titled: [*A Minimum Standard for Publishing Computational Results in the Weather and Climate Sciences*](https://doi.org/10.1175/BAMS-D-15-00010.1). I found the fact particularly appealing that he did this work on reproducibility during his PhD research in climate dynamics. 
 
-His suggestions are aimed at the “regular” scientist, so you and me (most likely), who analyzes dataset and produces figures. Again, I would highly recommend reading this paper, it’s not very long. His key suggestions are to include in each paper: 
+His suggestions are aimed at the “regular” scientist, so you and me (most likely), who analyzes datasets and produces figures. Again, I would highly recommend reading this paper, it’s not very long. His key suggestions are to include in each paper: 
 
 - A computation section: This includes details on the software and computing environment along with references to the code repository and data.
 - A corresponding code repository (on [Github](https://github.com), for example): This contains all the code used to analyze and plot the data.

@@ -9,6 +9,8 @@ permalink: /research/
 - [Stochastic boundary layer perturbations in convective-scale ensemble forecasting](#stochastic)
 - [Convective clustering and organization](#variability)  
 
+*I have also made a commitment to reproducible research, which you can read about [here](https://raspstephan.github.io/2017/07/09/reproducibility-part1.html).*
+
 **Previous research**
 
 - [Convection-permitting simulations of Warm Conveyor Belts](#wcb)
