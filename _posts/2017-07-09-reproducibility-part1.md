@@ -69,4 +69,4 @@ A nice example of these recommendations in action can be found in Damien Irvingâ
 
 After discussing this topic at our Early Career Scientist Meeting earlier this year, I was motivated to implement reproducibility in my own research. I was still left with some hesitation and uncertainty whether it would be worth it, but I thought Iâ€™d give it a try. 
 
-In a follow up blog post (soon to come) I will discuss my personal experiences and certain issues I encountered. 
+In a follow up [blog post](https://raspstephan.github.io/2017/07/15/reproducibility-part2.html) I discuss my personal experiences and certain issues I encountered. 
