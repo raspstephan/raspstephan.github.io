@@ -39,12 +39,17 @@ Poster presentation
 *High-resolution trajectory analysis of vertical motions in different weather situations*  
 Poster presentation  
 
-#### Current
 
-**Future of Cumulus Parameterization Workshop**, Delft, Netherlands, July 2017
-*Variability of Mid-Latitude Summertime Convection  
+**Future of Cumulus Parameterization Workshop**, Delft, Netherlands, July 2017   
+*Variability of Mid-Latitude Summertime Convection*  
 Poster presentation   
 To cite and download: [https://doi.org/10.6084/m9.figshare.5188351.v1](https://doi.org/10.6084/m9.figshare.5188351.v1)
+
+
+#### Upcoming
+[**Conference on Predictability and Multi-Scale Prediction of High Impact Weather**](https://hiw2017.wavestoweather.de/), Landshut, Germany, October 2017  
+*Variability and clustering of mid-latitude summertime convection*   
+Oral presentation  
 
 
 ---
