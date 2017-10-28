@@ -4,48 +4,38 @@ title: Research
 permalink: /research/
 ---
 
-**Current research projects**
+**Research projects**
 
 - [Stochastic boundary layer perturbations in convective-scale ensemble forecasting](#stochastic)
-- [Convective clustering and organization](#variability)  
+- [Convective variability and clustering](#variability)  
+- [Convection-permitting simulations of Warm Conveyor Belts](#wcb)
 
 *I have also made a commitment to reproducible research, which you can read about [here](https://raspstephan.github.io/2017/07/09/reproducibility-part1.html).*
 
-**Previous research**
-
-- [Convection-permitting simulations of Warm Conveyor Belts](#wcb)
-
 ---
-
-## Current research projects
 
 ### Stochastic boundary layer perturbations in convective-scale ensemble forecasting <a name="stochastic"></a>
 
-The aim of this project, which is run in collaboration with Deutscher Wetterdienst (DWD) is to test the impact of the physically-based stochastic boundary layer perturbation scheme (PSP) proposed by [Kober and Craig (2016)](http://dx.doi.org/10.1175/JAS-D-15-0144.1) in an operational data assimilation and ensemble forecasting system, COSMO-KENDA. In particular, we want to investigate the systematic effect of these perturbations on the diurnal cycle of convective precipitation, as well as the dispersive effect on the ensemble spread. 
+In collaboration with the German Weather Service (DWD) we are testing the impact of phsically-based stochastic boundary layer perturbations ([PSP](http://dx.doi.org/10.1175/JAS-D-15-0144.1)) in a km-scale ensemble data assimilation and forecasting system, COSMO-KENDA. 
 
-The PSP scheme aims to reintroduce variability in the boundary layer which has gone missing because the grid spacing (2.8 km in our case) is too coarse to resolve all turbulent motions. Since turbulence is a crucial factor for triggering convection, this lack of variability can lead to systematic biases in the timing and intensity of convection. 
-
-Another common shortcoming of current convective-scale ensemble forecasting systems is a lack of ensemble spread. Models are often too certain of their predictions, resulting in unreliable forecasts. Stochastic perturbations have proven to be a powerful method to improve the spread-skill ratio in global models (e.g. SPPT at ECMWF). We now want to see whether the small scale perturbations we are introducing can have a similar beneficial impact. 
-
-**Current status**  
-We are currently in the process of analyzing the data assimilation analyses and free forecasts for a two week period of high impact weather over Germany.
+Preliminary results suggest that the PSP scheme improves the representation of convection in weak synoptic forcing situations but might be slightly detrimental in strong synoptic forcing. Furthermore, the ensemble spread seems increased, particularly in the first guess ensemble.
 
 
-### Convective clustering and organization in the mid-latitutes <a name="variability"></a>
+### Variability and clustering of mid-latitude summertime convection <a name="variability"></a>
 
-In this project, we are investigating the clustering and variability of continental, summertime convection. To understand the way convection organizes is important in order to improve convection paramterization in global weather and climate models. Currently, most models which are too coarse to explicitly resolve deep convection make very simplistic assumptions about the sub-grid clouds. In nature, however, clouds tend to organize changing their life cycle and mean properties. Additionally, two very similar large-scale atmospheric conditions can give rise to two very different looking cloud ensembles, adding a significant stochastic component. All this means that classic, deterministic parameterizations are often a poor representation of what is actually going on in the atmosphere.
+In this project, we were investigating the variability and clustering of continental summertime convection. Understanding the way convection behaves is important to improve the representation of clouds in global weather and climate models. Most models are too coarse to resolve convection explicitely and therefore have to rely on parameterizations. Typically, this is done in a deterministic fashion, meaning that similar large scale atmospheric states result in similar convective responses. In reality, however, clouds behave chaotically. 
 
-The first key result of our research is that for summertime convection, there is a strong diurnal variation in the clustering of clouds. As convection is strongest (from noon to early afternoon) convection is only weakly organized. In the evening hour, however, clouds become strongly clustered.
+Stochastic parameterizations are one way of including this uncertainty about the sub-grid response in an atmopheric model. To design such a stochastic parameterization, however, one requires a theory about the convective variability. Such a theory was proposed by [Craig and Cohen (2006; CC06)](http://dx.doi.org/10.1175/JAS3709.1). In this work, we aimed to test this theory, outside of its comfort zone: in the continental mid-latitudes. Here, convection is influenced by a number of factors not included in the CC06 theory: diurnal variations in solar radiation, orography, land surface heterogeneities, and many others. 
 
-![animation]({{ site.url }}/assets/organization.png)  
-*This figure shows the diurnal variation of organization. Values above 1 indicate that convection is more clustered than random, while values below 1 indicate a more regular cloud spacing. Additionally, you can see that the scale matters! This indicates that there is a typical cloud cluster size.*  
+We quantified convective variability in 12 days on high-impact convection over Germany using the stochastic boundary layer perturbations mentioned above. We found that the theory still works well over a wide range of scales. In particular the mass flux standard deviation scales with the square root of the mean mass flux, in agreement with the CC06 theory. In contrast, multiplicative perturbation schemes such as SPPT assume a linear scaling which does not fit with our data.
 
-The second focus of our research was to test the theory of convective variability proposed by [Craig and Cohen (2006)](http://dx.doi.org/10.1175/JAS3709.1). This theory assumes a very simple model of atmospheric convection based on statistical physics. Its predictions agree well with convection-permitting simulations of radiative convective equilibrium. We find that the basic assumptions still hold well for our much more complex simulations, but adjustments need to be made for the changes in convective clustering. This result further supports ongoing development and use of the stochastic convection parameterization by [Plan and Craig (2008)](http://dx.doi.org/10.1175/2007JAS2263.1)
+There are however deviations from the CC06 theory. Most prominently, cloud organization influences the variability of convection. Clouds tend to be more clustered in the morning and evening on scales or around 100 km, which causes larger variability. Our findings suggest that the inclusion of convective organization could also lead to improvements for stochastic schemes.
 
-**Current status**  
-We are currently fine-tuning our analysis and writing up the results for publication!
+Furthermore, we found that the individual clouds follow an exponential mass flux distribution but only if the identified cloud objects are separated into individual updraft cores. The congregated cloud objects follow a power-law distribution which agrees with a recent study by [Windmiller](https://www.mpimet.mpg.de/en/staff/julia-windmiller/) and Craig. 
 
-## Previous research
+In general, our study supports the applicability of the CC06 theory in stochastic parameterizations such as the [Plant and Craig (2008)](http://dx.doi.org/10.1175/2007JAS2263.1) scheme in global simulations but also highlights areas which could benefit most from further research. Particularly, the parameterization of convective organization seems to be an important issue, which has flummoxed many scientists so far.
+
+
 
 ### Convection-permitting simulations of Warm Conveyor Belts <a name="wcb"></a>
 
