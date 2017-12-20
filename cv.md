@@ -11,7 +11,7 @@ permalink: /cv/
 **Rasp, S.**, Selz, T. and Craig, G.C., 2016. *Convective and Slantwise Trajectory Ascent in Convection-Permitting Simulations of Midlatitude Cyclones.* Monthly Weather Review, 144(10), 3961-3976. DOI: [http://dx.doi.org/10.1175/MWR-D-16-0112.1](http://dx.doi.org/10.1175/MWR-D-16-0112.1)  
 [More information](https://raspstephan.github.io/research/#wcb)
 
-**Rasp, S.**, Selz, T. and Craig, G.C., 2017. *Variability and clustering of mid-latitude summertime convection: Testing the Craig and Cohen (2006) theory in a convection-permitting ensemble with stochastic boundary layer perturbations.* Journal of the Atmospheric Sciences, accepted.
+**Rasp, S.**, Selz, T. and Craig, G.C., 2017. *Variability and clustering of mid-latitude summertime convection: Testing the Craig and Cohen (2006) theory in a convection-permitting ensemble with stochastic boundary layer perturbations.* Journal of the Atmospheric Sciences. DOI: [http://dx.doi.org/10.1175/JAS-D-17-0258.1](http://dx.doi.org/10.1175/JAS-D-17-0258.1).
 [More information](https://raspstephan.github.io/research/#variability)
 
 ---
