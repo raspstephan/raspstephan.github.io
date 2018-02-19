@@ -7,8 +7,9 @@ layout: default
 
 ![animation]({{ site.url }}/assets/banner.jpg)  
 
-Hi, my name is Stephan Rasp. 
+Hi, I'm Stephan. 
 
-Currently, I am a PhD student at Ludwig-Maximilian-University in Munich. My research deals with the predictability of severe weather on the convective scale and the parameterization of turbulence and convection in atmospheric models. 
+I am a PhD student at LMU Munich with a focus on numerical weather prediction. I have also recently found a passion for deep learning and have tackled several problems in atmospheric science using neural networks. 
 
-On this little website you can find out more [about me](https://raspstephan.github.io/cv/) and [my research](https://raspstephan.github.io/research/) or check out [my blog](https://raspstephan.github.io/blog/)!
+On this website you can read more [about me](https://raspstephan.github.io/cv/), [my weather research](https://raspstephan.github.io/weather_research/), [my deep learning research](https://raspstephan.github.io/dl_research/)  or check out [my blog](https://raspstephan.github.io/blog/)!
+

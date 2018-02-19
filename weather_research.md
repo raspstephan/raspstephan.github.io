@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Weather Research
+permalink: /weather_research/
 ---
+
+This page highlights my research in numerical weather prediction and atmospheric dynamics.
 
 **Research projects**
 
