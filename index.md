@@ -9,7 +9,7 @@ layout: default
 
 Hi, I'm Stephan. 
 
-I am a PhD student at LMU Munich with a focus on numerical weather prediction. I have also recently found a passion for deep learning and am tackling several problems in atmospheric science using neural networks. 
+I am a PhD student at LMU Munich. My research is at the intersection of atmospheric modeling and machine learning. On this little website you can find out more about [me](https://raspstephan.github.io/cv/), my [machine learning projects](https://raspstephan.github.io/ml_research/) and my research on [numerical weather prediction](https://raspstephan.github.io/weather_research/). I also [blog](https://raspstephan.github.io/blog/) on an irregular basis.
 
-On this website you can read more [about me](https://raspstephan.github.io/cv/), [my weather research](https://raspstephan.github.io/weather_research/), [my deep learning research](https://raspstephan.github.io/dl_research/)  or check out [my blog](https://raspstephan.github.io/blog/)!
+If you are interested in out recent work on using neural networks for climate model parameterization, check out this blog post (coming soon) for a summary. 
 

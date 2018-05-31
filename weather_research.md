@@ -25,6 +25,8 @@ Preliminary results suggest that the PSP scheme improves the representation of c
 
 ### Variability and clustering of mid-latitude summertime convection <a name="variability"></a>
 
+See publication [here](https://journals.ametsoc.org/doi/10.1175/JAS-D-17-0258.1).
+
 In this project, we were investigating the variability and clustering of continental summertime convection. Understanding the way convection behaves is important to improve the representation of clouds in global weather and climate models. Most models are too coarse to resolve convection explicitely and therefore have to rely on parameterizations. Typically, this is done in a deterministic fashion, meaning that similar large scale atmospheric states result in similar convective responses. In reality, however, clouds behave chaotically. 
 
 Stochastic parameterizations are one way of including this uncertainty about the sub-grid response in an atmopheric model. To design such a stochastic parameterization, however, one requires a theory about the convective variability. Such a theory was proposed by [Craig and Cohen (2006; CC06)](http://dx.doi.org/10.1175/JAS3709.1). In this work, we aimed to test this theory, outside of its comfort zone: in the continental mid-latitudes. Here, convection is influenced by a number of factors not included in the CC06 theory: diurnal variations in solar radiation, orography, land surface heterogeneities, and many others. 
