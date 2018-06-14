@@ -8,12 +8,14 @@ permalink: /cv/
 
 ### Preprints
 
+**Rasp, S.**, Pritchard, M. and Gentine, P., 2018. *Deep learning to represent sub-grid processes in climate models*. [https://arxiv.org/abs/1806.04731](https://arxiv.org/abs/1806.04731)
+
 **Rasp, S.**, Lerch, S., 2018. *Neural networks for post-processing ensemble weather forecasts.* [http://arxiv.org/abs/1805.09091](http://arxiv.org/abs/1805.09091)
 
 
 ### Peer-reviewed publications
 
-Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and , Yacalis, G., 2018. *Could machine learning break the convection parameterization deadlock?* Geophysical Research Letters. [https://doi.org/10.1029/2018GL078202](https://doi.org/10.1029/2018GL078202)
+Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *Could machine learning break the convection parameterization deadlock?* Geophysical Research Letters. [https://doi.org/10.1029/2018GL078202](https://doi.org/10.1029/2018GL078202)
 
 **Rasp, S.**, Selz, T. and Craig, G.C., 2018. *Variability and clustering of mid-latitude summertime convection: Testing the Craig and Cohen (2006) theory in a convection-permitting ensemble with stochastic boundary layer perturbations.* Journal of the Atmospheric Sciences, 75(2), 691-706. DOI: [http://dx.doi.org/10.1175/JAS-D-17-0258.1](http://dx.doi.org/10.1175/JAS-D-17-0258.1).
 [More information](https://raspstephan.github.io/research/#variability)
