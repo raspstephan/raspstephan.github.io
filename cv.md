@@ -13,7 +13,7 @@ permalink: /cv/
 
 ### Peer-reviewed publications
 
-**Rasp, S.**, Pritchard, M. and Gentine, P., 2018. *Deep learning to represent sub-grid processes in climate models*. Proceedings of the National Academy of Sciences [https://doi.org/10.1073/pnas.1810286115](https://arxiv.org/abs/1806.04731)
+**Rasp, S.**, Pritchard, M. and Gentine, P., 2018. *Deep learning to represent sub-grid processes in climate models*. Proceedings of the National Academy of Sciences. [https://doi.org/10.1073/pnas.1810286115](https://arxiv.org/abs/1806.04731)
 
 Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *Could machine learning break the convection parameterization deadlock?* Geophysical Research Letters. [https://doi.org/10.1029/2018GL078202](https://doi.org/10.1029/2018GL078202)
 
@@ -32,7 +32,7 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 **Max-Planck-Institute for Meteorology**, Hamburg, Germany, July 2018  
 *Machine learning to represent atmospheric sub-grid processes*  
 
-**Computer vision seminar, TU Munich**, Munich, Germany, August 2018
+**Computer vision seminar, TU Munich**, Munich, Germany, August 2018   
 *Deep learning in weather and climate science*
 
 
