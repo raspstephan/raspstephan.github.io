@@ -8,12 +8,12 @@ permalink: /cv/
 
 ### Preprints
 
-**Rasp, S.**, Pritchard, M. and Gentine, P., 2018. *Deep learning to represent sub-grid processes in climate models*. [https://arxiv.org/abs/1806.04731](https://arxiv.org/abs/1806.04731)
-
 **Rasp, S.**, Lerch, S., 2018. *Neural networks for post-processing ensemble weather forecasts.* [http://arxiv.org/abs/1805.09091](http://arxiv.org/abs/1805.09091)
 
 
 ### Peer-reviewed publications
+
+**Rasp, S.**, Pritchard, M. and Gentine, P., 2018. *Deep learning to represent sub-grid processes in climate models*. Proceedings of the National Academy of Sciences [https://doi.org/10.1073/pnas.1810286115](https://arxiv.org/abs/1806.04731)
 
 Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *Could machine learning break the convection parameterization deadlock?* Geophysical Research Letters. [https://doi.org/10.1029/2018GL078202](https://doi.org/10.1029/2018GL078202)
 
@@ -27,23 +27,36 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 
 ---
 
+### Seminar Talks
+
+**Max-Planck-Institute for Meteorology**, Hamburg, Germany, July 2018  
+*Machine learning to represent atmospheric sub-grid processes*  
+
+**Computer vision seminar, TU Munich**, Munich, Germany, August 2018
+*Deep learning in weather and climate science*
+
+
+### Workshops
+
+**Max-Planck-Institute for Meteorology**, Hamburg, Germany, July 2018  
+*One-day workshop on neural networks in Python*
+
+**Eearth System Science department, UC Irvine**, April/May 2018  
+*Workshops on machine learning in Python, Jupyter notebooks and the xarray package*
+
 ### Conference presentations
 
 
-[**Conference on Predictability and Multi-Scale Prediction of High Impact Weather**](https://hiw2017.wavestoweather.de/), Landshut, Germany, October 2017  
-*Variability and clustering of mid-latitude summertime convection*   
-Oral presentation  
+**Conference on Predictability and Multi-Scale Prediction of High Impact Weather**, Landshut, Germany, October 2017  
+*Variability and clustering of mid-latitude summertime convection*, Talk 
 
 
 **Future of Cumulus Parameterization Workshop**, Delft, Netherlands, July 2017   
-*Variability of Mid-Latitude Summertime Convection*  
-Poster presentation   
-To cite and download: [https://doi.org/10.6084/m9.figshare.5188351.v1](https://doi.org/10.6084/m9.figshare.5188351.v1)
+*Variability of Mid-Latitude Summertime Convection*, Poster 
 
 
 **COSMO/CLM/ART User Seminar**, DWD Offenbach, Germany, March 2017  
-*COSMO-KENDA experiments with a stochastic boundary layer perturbation scheme*   
-Oral presentation  
+*COSMO-KENDA experiments with a stochastic boundary layer perturbation scheme*, Talk
 
 
 **Waves to Weather 2nd Annual Meeting**, Speyer, Germany, November 2016  
@@ -52,18 +65,15 @@ Oral presentation
 
 
 **DACH**, Berlin, Germany, March 2016  
-*Der Einfluss eines physikalischen, stochastischen Störungenschemas auf das Störungswachstum in einem konvektiv-skaligen Modell*  
-Oral presentation 
+*Der Einfluss eines physikalischen, stochastischen Störungenschemas auf das Störungswachstum in einem konvektiv-skaligen Modell*, Talk
 
 
 **COSMO/CLM/ART User Seminar**, DWD Offenbach, Germany, March 2016  
-*Stochastic boundary layer perturbations: Systematic impact and perturbation growth*  
-Poster presentation  
+*Stochastic boundary layer perturbations: Systematic impact and perturbation growth*, Poster  
 
 
 **PANDOWAE Final Symposium**, Karlsruhe, Germany, May 2015  
-*High-resolution trajectory analysis of vertical motions in different weather situations*  
-Poster presentation  
+*High-resolution trajectory analysis of vertical motions in different weather situations*, Poster  
 
 ---
 
