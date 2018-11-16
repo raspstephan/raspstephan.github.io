@@ -13,5 +13,5 @@ I am a PhD student at LMU Munich. My research is at the intersection of atmosphe
 
 ## Upcoming events
 
-I will be giving seminar talks at Harvard on 5 Dec 2018 and Columbia on 6 Dec 2018. I will also be at AGU in DC this year. 
+I will be giving seminar talks at MIT on 4 Dec 2018, Harvard on 5 Dec 2018 and Columbia on 6 Dec 2018. I will also be at AGU in DC this year. My poster session in on Tuesday morning. 
 

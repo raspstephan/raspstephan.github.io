@@ -6,16 +6,14 @@ permalink: /cv/
 
 ![animation]({{ site.url }}/assets/portrait.jpg) 
 
-### Preprints
-
-**Rasp, S.**, Lerch, S., 2018. *Neural networks for post-processing ensemble weather forecasts.* [http://arxiv.org/abs/1805.09091](http://arxiv.org/abs/1805.09091)
-
 
 ### Peer-reviewed publications
 
-**Rasp, S.**, Pritchard, M. and Gentine, P., 2018. *Deep learning to represent sub-grid processes in climate models*. Proceedings of the National Academy of Sciences. [https://doi.org/10.1073/pnas.1810286115](https://doi.org/10.1073/pnas.1810286115)
+**Rasp, S.**, Lerch, S., 2018. *Neural networks for post-processing ensemble weather forecasts.* Monthly Weather Review, 146(11), 3885-3900. [https://doi.org/10.1175/MWR-D-18-0187.1](https://doi.org/10.1175/MWR-D-18-0187.1)
 
-Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *Could machine learning break the convection parameterization deadlock?* Geophysical Research Letters. [https://doi.org/10.1029/2018GL078202](https://doi.org/10.1029/2018GL078202)
+**Rasp, S.**, Pritchard, M. and Gentine, P., 2018. *Deep learning to represent sub-grid processes in climate models*. Proceedings of the National Academy of Sciences, 115(39), 9684-9689. [https://doi.org/10.1073/pnas.1810286115](https://doi.org/10.1073/pnas.1810286115)
+
+Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *Could machine learning break the convection parameterization deadlock?* Geophysical Research Letters, 45,5742–5751. [https://doi.org/10.1029/2018GL078202](https://doi.org/10.1029/2018GL078202)
 
 **Rasp, S.**, Selz, T. and Craig, G.C., 2018. *Variability and clustering of mid-latitude summertime convection: Testing the Craig and Cohen (2006) theory in a convection-permitting ensemble with stochastic boundary layer perturbations.* Journal of the Atmospheric Sciences, 75(2), 691-706. DOI: [http://dx.doi.org/10.1175/JAS-D-17-0258.1](http://dx.doi.org/10.1175/JAS-D-17-0258.1).
 [More information](https://raspstephan.github.io/research/#variability)
@@ -29,20 +27,24 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 
 ### Seminar Talks
 
-**Max-Planck-Institute for Meteorology**, Hamburg, Germany, July 2018  
-*Machine learning to represent atmospheric sub-grid processes*  
-
 **Computer vision seminar, TU Munich**, Munich, Germany, August 2018   
 *Deep learning in weather and climate science*
+
+**Max-Planck-Institute for Meteorology**, Hamburg, Germany, July 2018  
+*Machine learning to represent atmospheric sub-grid processes*  
 
 
 ### Workshops
 
+**Waves 2 Weather Early Career Scientists**, Zugspitze, Germany, September 2018
+*Three-day workshop on machine learning and neural netoworks in Python* [Link](http://w2w.meteo.physik.uni-muenchen.de/meetings/workshop_neural_networks_sep18/index.html)
+
 **Max-Planck-Institute for Meteorology**, Hamburg, Germany, July 2018  
 *One-day workshop on neural networks in Python*
 
-**Eearth System Science department, UC Irvine**, April/May 2018  
+**Earth System Science department, UC Irvine**, April/May 2018  
 *Workshops on machine learning in Python, Jupyter notebooks and the xarray package*
+
 
 ### Conference presentations
 
@@ -57,11 +59,6 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 
 **COSMO/CLM/ART User Seminar**, DWD Offenbach, Germany, March 2017  
 *COSMO-KENDA experiments with a stochastic boundary layer perturbation scheme*, Talk
-
-
-**Waves to Weather 2nd Annual Meeting**, Speyer, Germany, November 2016  
-*Convective variability in real mid-latitude weather*  
-Oral presentation  
 
 
 **DACH**, Berlin, Germany, March 2016  
