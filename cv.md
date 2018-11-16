@@ -36,7 +36,7 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 
 ### Workshops
 
-**Waves 2 Weather Early Career Scientists**, Zugspitze, Germany, September 2018
+**Waves 2 Weather Early Career Scientists**, Zugspitze, Germany, September 2018    
 *Three-day workshop on machine learning and neural netoworks in Python* [Link](http://w2w.meteo.physik.uni-muenchen.de/meetings/workshop_neural_networks_sep18/index.html)
 
 **Max-Planck-Institute for Meteorology**, Hamburg, Germany, July 2018  
