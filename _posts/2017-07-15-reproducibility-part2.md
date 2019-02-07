@@ -1,8 +1,9 @@
 ---
-layout: post
 title:  "Reproducibility, Part 2 - My experiences"
 comments: true
 date:   2017-07-15 09:00:00 -0000
+layout: single
+author_profile: true
 ---
 
 In my previous [blog post](https://raspstephan.github.io/2017/07/09/reproducibility-part1.html) I explained what reproducibility is, why it is important and how it could work in a practical sense. In this post, I will outline my personal efforts to implement reproducibility. At the end, I will ramble a little bit about my experiences and thoughts. But let’s start out with the technical issues.

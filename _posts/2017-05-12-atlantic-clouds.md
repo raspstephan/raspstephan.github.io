@@ -1,8 +1,9 @@
 ---
-layout: post
 title:  "Thoughts on shallow cumulus through an airplane window"
 comments: true
 date:   2017-05-12 09:25:57 -0700
+layout: single
+author_profile: true
 ---
 
 Recently, I found myself on a plane crossing the Atlantic. As I was looking out of the window I was struck by some spectacular views of the clouds beneath us, particularly shallow cumulus. In fact, for the majority of our time above the ocean, the atmosphere beneath us was covered in sheets of continuous or broken-up stratocumulus. 
@@ -11,20 +12,20 @@ Just a few days before our flight, I read a [commentary](https://www.nature.com/
 
 As I was looking at these clouds now through my (electronically dimmable!) airplane window, I had to think about what I had learned from this article. These cloud layers are so shallow, yet cover huge fractions of our globe. No wonder, current weather and climate models with their coarse (vertical) resolution have serious problems simulating this finely balanced system. But enough talking now, below are some impressions.
 
-![animation]({{ site.url }}/assets/atlantic1.jpg)   
+![animation]({{ site.url }}/assets/images/atlantic1.jpg)   
 *Our flight track across the Atlantic.*
 
-![animation]({{ site.url }}/assets/atlantic2.jpg) 
+![animation]({{ site.url }}/assets/images/atlantic2.jpg) 
 
-![animation]({{ site.url }}/assets/atlantic3.jpg)  
+![animation]({{ site.url }}/assets/images/atlantic3.jpg)  
 *Some pretty cool cloud lines just after we left, somewhere North of Ireland.* 
 
-![animation]({{ site.url }}/assets/atlantic4.jpg) 
+![animation]({{ site.url }}/assets/images/atlantic4.jpg) 
 
-![animation]({{ site.url }}/assets/atlantic5.jpg)   
+![animation]({{ site.url }}/assets/images/atlantic5.jpg)   
 *Some closed cellular structures a little later on.*
 
-![animation]({{ site.url }}/assets/atlantic6.jpg) 
+![animation]({{ site.url }}/assets/images/atlantic6.jpg) 
 *A little bit after crossing the Southern tip of Iceland, some amazing wave structures.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g-iNcH-DXaw" frameborder="0" allowfullscreen></iframe>   

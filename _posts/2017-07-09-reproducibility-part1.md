@@ -1,8 +1,9 @@
 ---
-layout: post
 title:  "Reproducibility, Part 1 - What is it and how to start?"
 comments: true
 date:   2017-07-09 09:00:00 -0000
+layout: single
+author_profile: true
 ---
 
 *Before I start let me thank and give credit to [Sebastian Lerch](https://sites.google.com/site/sebastianlerch/) of the Heidelberg Institute for Theoretical Studies (HITS), whose slides on the topics served as an inspiration for this post, and [Georgios Fragkoulidis](http://www.w2w.meteo.physik.uni-muenchen.de/people/phd_students/fragkoulidis_georgios/index.html) of Johannes Gutenberg-University in Mainz for initiating our discussion on the topic at the Early Career Scientist meeting of our project [Waves to Weather](http://www.w2w.meteo.physik.uni-muenchen.de) this spring.*   

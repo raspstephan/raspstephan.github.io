@@ -1,8 +1,9 @@
 ---
-layout: post
 title:  "A simple hack to make figures reproducible"
 comments: true
 date:   2017-08-24 00:00:00 -0000
+layout: single
+author_profile: true
 ---
 
 In my [previous posts](https://raspstephan.github.io/2017/07/09/reproducibility-part1.html) I explained why reproducibility is an important topic that is probably underappreciated in the weather and climate sciences at the moment. Here, I just wanted to present a simple hack which makes figures created with the Python library `matplotlib` more reproducible. 
