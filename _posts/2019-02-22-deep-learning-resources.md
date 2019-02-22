@@ -3,6 +3,7 @@ title:  "Deep Learning (for Atmospheric Scientists): How to get started"
 comments: true
 date:   2019-02-05 00:00:00 -0000
 layout: single
+classes: wide
 author_profile: true
 ---
 
@@ -11,9 +12,29 @@ author_profile: true
 **tl;dr**: There are currently two great resources for getting started with deep learning: [fast.ai](https://course.fast.ai/) and [deeplearning.io](https://www.coursera.org/specializations/deep-learning). fast.ai is great for people who love to learn by doing. deeplearning.ai follows a more traditional style of teaching. Both are great. I recommend trying the first lectures of both to see which one suits your style better.
 
 ## Machine learning and deep learning are not hard!
-Over the course of the last year, I have given several presentation on my deep learning research. Many young scientists approached me afterwards to ask about resources for learning deep learning. I 
+Over the course of the last year, I have given several presentation on my deep learning research. One common question I got after these talks has been: What are good resources if I want to get into deep learning? In this post I want to summarize the resources I am aware of. But first, I want to start by dispelling one common misconception, which is that deep learning is really hard. It is not!
 
+Of course, many deep learning companies and researchers have a vested interested in portraying their work as super-complex. But the truth is that with some basic knowledge of linear algebra (and I really mean basic) and a bit of experience in coding, you will be able to apply deep learning to actual problems in no time. Of course, techniques at the cutting edge of deep learning research (e.g. [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)) require a bit more familiarity with the deep learning literature and background; but the truth is that for most applications to problems in other fields of science standard neural networks with some minor tweaks are quite sufficient. For my papers that use neural networks, for example, the actual neural network part of the code was just a few lines long.
 
+## Online courses: fast.ai and deeplearning.ai
+
+The best way to get started with deep learning is with an online course. Currently, there are two stand-out courses: [fast.ai](https://course.fast.ai/) and [deeplearning.io](https://www.coursera.org/specializations/deep-learning). Both are a great place to start but they do follow a different style of teaching. 
+
+### fast.ai
+
+fast.ai is how I got started about a year and a half ago and it completely transformed my working life. fast.ai has been created by Jeremy Howard and Rachel Thomas with the goal to make deep learning easy and accessible for a broad audience. Their free online course consists of two hour lecture videos and the corresponding Jupyter notebooks. The focus is really on learning by doing. In the first lesson, you will start by training a state-of-the-art image classification network in the first lecture without really knowing what's going on. Only in later lessons, once you have already developed some intuition will you delve deeper into the details of the algorithm.
+
+This sort of top-down approach might be intimidating at first because it is contrary to how we have been conditioned to learn in school and university. But it helps you to develop an intuitive understanding that is particularly important in machine learning. I, too, was skeptical when I started fast.ai but after just a few weeks I realized that I have probably never learned as much in such a short amount of time. 
+
+fast.ai's main course is "Practical Deep Learning for Coders", the third version of which has just been released. In this course, the focus is on using state-of-the-art deep neural networks for image recognition and natural language processing. There is a follow up course, called [Cutting Edge Deep Learning for Coders](http://course18.fast.ai/part2.html) but this has not yet been updated (a new version will be coming soon though), in which they explore more experimental deep learning algorithms and applications. 
+
+In the new updated version of fast.ai, they use their own neural network Python library called fastai (no dot...) which is based on Pytorch. This library automatically implements many best practices for common deep learning tasks. One downside of this is that many applications we Earth scientists might be interested in are not common deep learning tasks and do not use common deep learning data formats. Here, using fastai is slightly more complicated. However, in the course you will also learn how to use plain Pytorch which allows you to do pretty much anything you want.
+
+fast.ai also offers a course [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml) which covers machine learning from a more fundamental point of view. The first half of this course covers random forests, while the second half is focused on neural networks. This is also a great place to learn good machine learning practices. 
+
+So which course should you do? I will discuss this further below.
+
+---
 
 In the last few weeks I gave several presentations on applying neural networks to problems in weather and climate science. Many people expressed an interest  in this topic and asked me to recommend resources to learn more about deep learning. For this reason I thought I would share with you my experiences getting into deep learning. 
 
