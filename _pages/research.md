@@ -8,8 +8,8 @@ feature_row:
     alt: "placeholder image 1"
     title: "Deep learning climate model parameterizations"
     excerpt: "Learning subgrid physics from high-resolution simulations."
-  - url: 
-    image_path: /assets/images/sat-clouds.jpg
+  - url: /research/sugar-flower-fish-gravel/
+    image_path: /assets/images/sffg-banner.png
     alt: "placeholder image 2"
     title: "Sugar, Flower, Fish or Gravel"
     excerpt: "Hyper-collaborative cloud organization project. More soon."
@@ -24,7 +24,7 @@ feature_row:
     title: "Stochastic parameterizations in km-scale models"
     excerpt: 'How to best represent convection in the gray zone.'
   - url: https://www.en.meteo.physik.uni-muenchen.de/aktuelles/forschungshighlights_archiv/rasp_etal_2016_trajectories/index.html
-    image_path: /assets/images/conveyor_belt.jpg
+    image_path: /assets/images/wcbpng.png
     alt: "placeholder image 3"
     title: "Convection in Warm Conveyor Belts"
     excerpt: 'How much of the ascent in WCBs is convective?'

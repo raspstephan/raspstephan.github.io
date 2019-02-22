@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Stephan Rasp"
   avatar           : "/assets/images/portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Researching at the intersection between atmospheric science and machine learning."
+  bio              : "Researching at the intersection of atmospheric science and machine learning."
   location         : "Munich, Germany"
   # email            : "s.rasp@lmu.de"
   links:
