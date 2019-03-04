@@ -59,7 +59,8 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 
 ## Conference presentations
 
-[*UPCOMING*] [**Understanding Clouds and Precipitation**](https://indico.mpimet.mpg.de/event/1/), Berlin, Germany, February 2019
+**Understanding Clouds and Precipitation**, Berlin, Germany, February 2019
+*Sugar, Flower, Fish or Gravel - Cloud classification from humans to machines*, Talk
 
 **American Geophysical Union Fall Meeting**, Washington DC, USA, December 2018  
 *Deep learning to represent subgrid processes in climate models*, Poster 
