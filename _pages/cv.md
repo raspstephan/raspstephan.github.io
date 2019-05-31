@@ -22,7 +22,11 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 
 ---
 
-## Invited Talks
+## Talks and conference presentations
+
+*Invited talks*
+
+[*UPCOMING*] [**Machine Learning for Weather and Climate Modelling**](http://users.ox.ac.uk/~phys0895/mlwc2019/index.html), Oxford, UK, September 2019
 
 [*UPCOMING*] [**Convection parameterization: Progress and challenges**](http://sites.exeter.ac.uk/convection-workshop/), Exeter, UK, July 2019
 
@@ -44,20 +48,7 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 **Max-Planck-Institute for Meteorology**, Hamburg, Germany, July 2018  
 *Machine learning to represent atmospheric sub-grid processes*  
 
-
-## Workshops
-
-**Waves 2 Weather Early Career Scientists**, Zugspitze, Germany, September 2018    
-*Three-day workshop on machine learning and neural netoworks in Python* [Link](http://w2w.meteo.physik.uni-muenchen.de/meetings/workshop_neural_networks_sep18/index.html)
-
-**Max-Planck-Institute for Meteorology**, Hamburg, Germany, July 2018  
-*One-day workshop on neural networks in Python*
-
-**Earth System Science department, UC Irvine**, April/May 2018  
-*Workshops on machine learning in Python, Jupyter notebooks and the xarray package*
-
-
-## Conference presentations
+*Conferences*
 
 **Understanding Clouds and Precipitation**, Berlin, Germany, February 2019
 *Sugar, Flower, Fish or Gravel - Cloud classification from humans to machines*, Talk
@@ -87,17 +78,34 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 **PANDOWAE Final Symposium**, Karlsruhe, Germany, May 2015  
 *High-resolution trajectory analysis of vertical motions in different weather situations*, Poster  
 
+
+## Workshops
+
+**Waves 2 Weather Early Career Scientists**, Zugspitze, Germany, September 2018    
+*Three-day workshop on machine learning and neural netoworks in Python* [Link](http://w2w.meteo.physik.uni-muenchen.de/meetings/workshop_neural_networks_sep18/index.html)
+
+**Max-Planck-Institute for Meteorology**, Hamburg, Germany, July 2018  
+*One-day workshop on neural networks in Python*
+
+**Earth System Science department, UC Irvine**, April/May 2018  
+*Workshops on machine learning in Python, Jupyter notebooks and the xarray package*
+
+
 ---
 
 ## Education
+
+*2019 - Current*  
+**Postdoc**, TU Munich  
+*Group:* [Physics-based deep learning](https://ge.in.tum.de/about/n-thuerey/), Prof. Nils Thuerey   
+*Topic:* Figuring out how machine learning can actually improve weather and climate prediction
 
 *Feb - May 2018*  
 **Visiting Scholar**, UC Irvine  
 *Advisor:* Prof. Mike Pritchard  
 *Topic:* Improving climate model physics with neural networks.
 
-
-*2015 - current*  
+*2015 - 2019*  
 **PhD in Meteorology**, LMU Munich    
 [Project A6](http://www.w2w.meteo.physik.uni-muenchen.de/research_areas/a6/index.html) of the DFG Collaborative Research Project [Waves to Weather](http://www.w2w.meteo.physik.uni-muenchen.de)  
 *Advisor:* Prof. George C. Craig  
