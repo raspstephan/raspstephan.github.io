@@ -4,9 +4,11 @@ permalink: /cv/
 classes: wide
 ---
 
-## Peer-reviewed publications
+## Papers
 
-**Rasp, S.**, Lerch, S., 2018. *Neural networks for post-processing ensemble weather forecasts.* Monthly Weather Review, 146(11), 3885-3900. [https://doi.org/10.1175/MWR-D-18-0187.1](https://doi.org/10.1175/MWR-D-18-0187.1)
+**Rasp, S.**, Schulz, H., Bony, S. and Stevens, B., 2019. *Combining crowd-sourcing and deep learning to understand meso-scale organization of shallow convection*. arXiv [https://arxiv.org/abs/1906.01906](https://arxiv.org/abs/1906.01906)
+
+**Rasp, S.** and Lerch, S., 2018. *Neural networks for post-processing ensemble weather forecasts.* Monthly Weather Review, 146(11), 3885-3900. [https://doi.org/10.1175/MWR-D-18-0187.1](https://doi.org/10.1175/MWR-D-18-0187.1)
 
 **Rasp, S.**, Pritchard, M. and Gentine, P., 2018. *Deep learning to represent sub-grid processes in climate models*. Proceedings of the National Academy of Sciences, 115(39), 9684-9689. [https://doi.org/10.1073/pnas.1810286115](https://doi.org/10.1073/pnas.1810286115)
 

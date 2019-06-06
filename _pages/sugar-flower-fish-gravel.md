@@ -8,6 +8,8 @@ classes: wide
 
 Hey there! Thanks for you interest in our cloud-classification project.
 
+Our [paper](https://arxiv.org/abs/1906.01906) describing the project is out now! 
+
 To find out more, check out my recent presentation  on the project and first results:
 
 [PPT](https://drive.google.com/open?id=1beXBsbqh_jTJtju3aSS2KzmjkDJt154C)
