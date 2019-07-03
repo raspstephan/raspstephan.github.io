@@ -6,6 +6,10 @@ classes: wide
 
 ## Papers
 
+**Rasp, S.**, 2019. *Online learning as a way to tackle instabilities and biases in neural network parameterizations*. arXiv [https://arxiv.org/abs/1907.01351](https://arxiv.org/abs/1907.01351)
+
+Beucler, T., **Rasp, S.**, Pritchard, M. and Gentine, P., 2019. *Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling*. arXiv [https://arxiv.org/abs/1906.06622](http://arxiv.org/abs/1906.06622)
+
 **Rasp, S.**, Schulz, H., Bony, S. and Stevens, B., 2019. *Combining crowd-sourcing and deep learning to understand meso-scale organization of shallow convection*. arXiv [https://arxiv.org/abs/1906.01906](https://arxiv.org/abs/1906.01906)
 
 **Rasp, S.** and Lerch, S., 2018. *Neural networks for post-processing ensemble weather forecasts.* Monthly Weather Review, 146(11), 3885-3900. [https://doi.org/10.1175/MWR-D-18-0187.1](https://doi.org/10.1175/MWR-D-18-0187.1)

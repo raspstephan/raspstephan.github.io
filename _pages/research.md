@@ -12,7 +12,7 @@ feature_row:
     image_path: /assets/images/sffg-banner.png
     alt: "placeholder image 2"
     title: "Sugar, Flower, Fish or Gravel"
-    excerpt: "Hyper-collaborative cloud organization project. More soon."
+    excerpt: "Bringing crowd-sourcing and deep learning together to understand cloud patterns."
   - url: https://doi.org/10.1175/MWR-D-18-0187.1
     image_path: /assets/images/nn.jpg
     alt: "placeholder image 2"
