@@ -16,4 +16,4 @@ To find out more, check out my recent presentation  on the project and first res
 [PDF](https://drive.google.com/open?id=1L01CQpsXRvk-OY4ZPVN99xQyEy2V1y_N)
 [Audio](https://drive.google.com/open?id=16jd7Rb0I3cmxr7_M29z6dmHeLGYKEIJB)
 
-Check out the [Zooniverse project](https://www.zooniverse.org/projects/raspstephan/sugar-flower-fish-or-gravel) and the associated [Github repository](https://github.com/raspstephan/sugar-flower-fish-or-gravel).
+Check out the [Zooniverse project](https://www.zooniverse.org/projects/raspstephan/sugar-flower-fish-or-gravel)
