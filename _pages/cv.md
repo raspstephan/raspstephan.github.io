@@ -6,6 +6,8 @@ classes: wide
 
 ## Papers
 
+Keil, C., Baur, F., Bachmann, K., **Rasp, S.**, Schneider, L. and Barthlott, C., 2019. *Relative contribution of soil moisture, boundary layer and microphysical perturbations on convective predictability in different weather regimes* Quarterly Journal of the Royal Meteorological Society, accepted article. [https://doi.org/10.1002/qj.3607](https://doi.org/10.1002/qj.3607)
+
 **Rasp, S.**, 2019. *Online learning as a way to tackle instabilities and biases in neural network parameterizations*. arXiv [https://arxiv.org/abs/1907.01351](https://arxiv.org/abs/1907.01351)
 
 Beucler, T., **Rasp, S.**, Pritchard, M. and Gentine, P., 2019. *Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling*. arXiv [https://arxiv.org/abs/1906.06622](http://arxiv.org/abs/1906.06622)
@@ -34,7 +36,8 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 
 [*UPCOMING*] [**Machine Learning for Weather and Climate Modelling**](http://users.ox.ac.uk/~phys0895/mlwc2019/index.html), Oxford, UK, September 2019
 
-[*UPCOMING*] [**Convection parameterization: Progress and challenges**](http://sites.exeter.ac.uk/convection-workshop/), Exeter, UK, July 2019
+[**Convection parameterization: Progress and challenges**](http://sites.exeter.ac.uk/convection-workshop/), Exeter, UK, July 2019
+*Machine Learning: Building parameterizations and understanding clouds* [Slides](https://drive.google.com/file/d/1-sgxIEk6b87cZdLg_RdhBz99G2Rn2ich/view?usp=sharing)
 
 **Workshop on Data Science and Machine Learning**, AGU Fall Meeting, Washington DC, USA, December 2018   
 *Opportunities and challenges for machine learning parameterizations*
