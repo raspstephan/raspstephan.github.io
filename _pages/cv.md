@@ -1,6 +1,6 @@
 ---
 title:  "Publications/CV"
-permalink: /cv/
+permalink: /publications/
 classes: wide
 ---
 
@@ -24,7 +24,7 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 [More information](https://raspstephan.github.io/research/#variability)
 
 **Rasp, S.**, Selz, T. and Craig, G.C., 2016. *Convective and Slantwise Trajectory Ascent in Convection-Permitting Simulations of Midlatitude Cyclones.* Monthly Weather Review, 144(10), 3961-3976. DOI: [http://dx.doi.org/10.1175/MWR-D-16-0112.1](http://dx.doi.org/10.1175/MWR-D-16-0112.1)  
-[More information](https://raspstephan.github.io/research/#wcb)
+[More information](https://www.en.meteo.physik.uni-muenchen.de/aktuelles/forschungshighlights_archiv/rasp_etal_2016_trajectories/index.html)
 
 
 
@@ -109,8 +109,12 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 *Group:* [Physics-based deep learning](https://ge.in.tum.de/about/n-thuerey/), Prof. Nils Thuerey   
 *Topic:* Figuring out how machine learning can actually improve weather and climate prediction
 
+*Jul - Aug 2019*  
+**Visiting Researcher**, Vulcan, Inc., Seattle 
+*Group:* Climate modeling group led by Prof. Chris Bretherton 
+
 *Feb - May 2018*  
-**Visiting Scholar**, UC Irvine  
+**Visiting Researcher**, UC Irvine  
 *Advisor:* Prof. Mike Pritchard  
 *Topic:* Improving climate model physics with neural networks.
 
