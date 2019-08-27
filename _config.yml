@@ -110,11 +110,11 @@ author:
   avatar           : "/assets/images/portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Researching at the intersection of atmospheric science and machine learning."
   location         : "Munich, Germany"
-  # email            : "s.rasp@lmu.de"
+  # email            : "stephan.rasp@tum.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:s.rasp@lmu.de
+      url: mailto:stephan.rasp@tum.de
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/raspstephan"
@@ -137,7 +137,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:s.rasp@lmu.de
+      url: mailto:stephan.rasp@tum.de
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/raspstephan"
