@@ -38,9 +38,10 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 
 *Invited talks*
 
-[*UPCOMING*] [**Machine Learning for Weather and Climate Modelling**](http://users.ox.ac.uk/~phys0895/mlwc2019/index.html), Oxford, UK, September 2019
+[**Machine Learning for Weather and Climate Modelling**](http://users.ox.ac.uk/~phys0895/mlwc2019/index.html), Oxford, UK, September 2019    
+*Improving Models with Machine Learning Parameterizations: Status Quo vs. Real Progress* [Slides](https://drive.google.com/open?id=18saJQCz4O0aGRTv6e0_5WVpMego0buKx)
 
-[**Convection parameterization: Progress and challenges**](http://sites.exeter.ac.uk/convection-workshop/), Exeter, UK, July 2019
+[**Convection parameterization: Progress and challenges**](http://sites.exeter.ac.uk/convection-workshop/), Exeter, UK, July 2019    
 *Machine Learning: Building parameterizations and understanding clouds* [Slides](https://drive.google.com/file/d/1-sgxIEk6b87cZdLg_RdhBz99G2Rn2ich/view?usp=sharing)
 
 **Workshop on Data Science and Machine Learning**, AGU Fall Meeting, Washington DC, USA, December 2018   
