@@ -6,17 +6,17 @@ classes: wide
 
 ## Preprints
 
-**Rasp, S.**, 2019. *Online learning as a way to tackle instabilities and biases in neural network parameterizations*. arXiv [https://arxiv.org/abs/1907.01351](https://arxiv.org/abs/1907.01351)
+**Rasp, S.**, 2019. *Coupled online learning as a way to tackle instabilities and biases in neural network parameterizations: general algorithms and Lorenz 96 case study (v1. 0)*. Geoscientific Model Development Discussion Paper [https://www.geosci-model-dev-discuss.net/gmd-2019-319/](https://www.geosci-model-dev-discuss.net/gmd-2019-319/)
 
 Beucler, T., **Rasp, S.**, Pritchard, M. and Gentine, P., 2019. *Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling*. arXiv [https://arxiv.org/abs/1906.06622](http://arxiv.org/abs/1906.06622)
 
-**Rasp, S.**, Schulz, H., Bony, S. and Stevens, B., 2019. *Combining crowd-sourcing and deep learning to understand meso-scale organization of shallow convection*. arXiv [https://arxiv.org/abs/1906.01906](https://arxiv.org/abs/1906.01906)
+**Rasp, S.**, Schulz, H., Bony, S. and Stevens, B., 2019. *Combining crowd-sourcing and deep learning to explore the meso-scale organization of shallow convection*. arXiv [https://arxiv.org/abs/1906.01906](https://arxiv.org/abs/1906.01906)
 
 ## Papers
 
-Hirt, M., **Rasp, S.**, Blahak, U. and Craig, G., 2019. *Stochastic parameterization of processes leading to convection initiation in kilometre-scale models*. Monthly Weather Review, EOR. [https://doi.org/10.1175/MWR-D-19-0060.1](https://doi.org/10.1175/MWR-D-19-0060.1)
+Hirt, M., **Rasp, S.**, Blahak, U. and Craig, G., 2019. *Stochastic parameterization of processes leading to convection initiation in kilometre-scale models*. Monthly Weather Review, 147 (11), 3917-3934. [https://doi.org/10.1175/MWR-D-19-0060.1](https://doi.org/10.1175/MWR-D-19-0060.1)
 
-Keil, C., Baur, F., Bachmann, K., **Rasp, S.**, Schneider, L. and Barthlott, C., 2019. *Relative contribution of soil moisture, boundary layer and microphysical perturbations on convective predictability in different weather regimes* Quarterly Journal of the Royal Meteorological Society, accepted article. [https://doi.org/10.1002/qj.3607](https://doi.org/10.1002/qj.3607)
+Keil, C., Baur, F., Bachmann, K., **Rasp, S.**, Schneider, L. and Barthlott, C., 2019. *Relative contribution of soil moisture, boundary layer and microphysical perturbations on convective predictability in different weather regimes* Quarterly Journal of the Royal Meteorological Society, 145 (724), 3102-3115. [https://doi.org/10.1002/qj.3607](https://doi.org/10.1002/qj.3607)
 
 **Rasp, S.** and Lerch, S., 2018. *Neural networks for post-processing ensemble weather forecasts.* Monthly Weather Review, 146(11), 3885-3900. [https://doi.org/10.1175/MWR-D-18-0187.1](https://doi.org/10.1175/MWR-D-18-0187.1)
 
