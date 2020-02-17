@@ -6,6 +6,8 @@ classes: wide
 
 ## Preprints
 
+**Rasp, S.**, Dueben, P. Scher, S., Weyn, J., Mouatadid, S., Thuerey, N., 2020. *WeatherBench: A benchmark dataset for data-driven weather forecasting*. arXiv [http://arxiv.org/abs/2002.00469](http://arxiv.org/abs/2002.00469)
+
 **Rasp, S.**, 2019. *Coupled online learning as a way to tackle instabilities and biases in neural network parameterizations: general algorithms and Lorenz 96 case study (v1. 0)*. Geoscientific Model Development Discussion Paper [https://www.geosci-model-dev-discuss.net/gmd-2019-319/](https://www.geosci-model-dev-discuss.net/gmd-2019-319/)
 
 Beucler, T., **Rasp, S.**, Pritchard, M. and Gentine, P., 2019. *Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling*. arXiv [https://arxiv.org/abs/1906.06622](http://arxiv.org/abs/1906.06622)
