@@ -24,7 +24,8 @@ The first term on the right hand side is an advection term, while the second ter
 
 For parameter estimation or parameterization research, it is most common to use the two-level version of the L96 model. For this we add another periodic variable Y with its own set of ODEs. The X and Y ODEs are linked through coupling term which is the last term in both equations below. Each X has J Y variables associated with it. 
 
-![animation]({{ site.url }}/assets/images/L96_eqs.jpeg)
+<!-- ![animation]({{ site.url }}/assets/images/L96_eqs.png) -->
+<img width="560" src="{{ site.url }}/assets/images/L96_eqs.png" alt="Italian Trulli">
 
 Again, we can look at a visualization to better understand what’s happening.
 
