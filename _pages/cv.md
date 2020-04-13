@@ -16,7 +16,7 @@ Beucler, T., **Rasp, S.**, Pritchard, M. and Gentine, P., 2019. *Achieving Conse
 
 ## Papers
 
-Zeng Y., Janjić T., de Lozar A., Rasp S., Blahak U., Seifert A., Craig G., 2020. *Comparison of methods accounting for subgrid-scale model error in convective-scale data assimilation*. Monthly Weather Review, EOR. [https://doi.org/10.1175/MWR-D-19-0064.1](https://doi.org/10.1175/MWR-D-19-0064.1)
+Zeng Y., Janjić T., de Lozar A., **Rasp S.**, Blahak U., Seifert A., Craig G., 2020. *Comparison of methods accounting for subgrid-scale model error in convective-scale data assimilation*. Monthly Weather Review, EOR. [https://doi.org/10.1175/MWR-D-19-0064.1](https://doi.org/10.1175/MWR-D-19-0064.1)
 
 Hirt, M., **Rasp, S.**, Blahak, U. and Craig, G., 2019. *Stochastic parameterization of processes leading to convection initiation in kilometre-scale models*. Monthly Weather Review, 147 (11), 3917-3934. [https://doi.org/10.1175/MWR-D-19-0060.1](https://doi.org/10.1175/MWR-D-19-0060.1)
 
