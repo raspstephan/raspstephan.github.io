@@ -7,8 +7,6 @@ classes: wide
 author_profile: true
 ---
 
-<!-- ![animation]({{ site.url }}/assets/images/banner.jpg)    -->
-
 The argument goes like this: Climate models continue to have large uncertainties → these uncertainties are primarily caused by the parameterization of sub-grid clouds which are based on heuristic assumptions → short-term high-resolution simulations are now possible→ so why not learn a parameterization directly from high-resolution data? 
 
 Motivated by this line of thinking, a growing number of researchers are embarking on the quest to build machine learning (ML) parameterizations of sub-grid processes. This started with [the paper](https://www.hindawi.com/archive/2013/485913/) by Vladimir Krasnopolsky in 2013 and in 2018 saw a big uptake in interest with papers published almost simultaneously by three research groups ([Rasp et al.](https://www.pnas.org/content/115/39/9684), [Brenowitz and Bretherton](http://doi.wiley.com/10.1029/2018GL078510) and [O’Gorman and Dwyer](http://doi.wiley.com/10.1029/2018MS001351)). Since then research efforts have only intensified. And initial studies do indeed show the feasibility of this approach. The three groups mentioned above have all managed to run a hybrid climate model with ML cloud physics that reproduces some key features of the high-resolution simulation.
