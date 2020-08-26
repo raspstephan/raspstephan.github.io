@@ -19,11 +19,11 @@ locale                   : "en-US"
 title                    : "Stephan Rasp"
 title_separator          : "-"
 name                     : "Stephan Rasp"
-description              : "Deep learning research for weather and climate science."
+# description              : "Deep learning research for weather and climate science."
 url                      : "https://raspstephan.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/portrait.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/new_portrait.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/SR.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -107,14 +107,14 @@ analytics:
 # Site Author
 author:
   name             : "Stephan Rasp"
-  avatar           : "/assets/images/portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Researching at the intersection of atmospheric science and machine learning."
+  avatar           : "/assets/images/new_portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Senior data scientist <a href='https://climate.ai/'>@ClimateAi</a>"
   location         : "Munich, Germany"
-  # email            : "stephan.rasp@tum.de"
+  # email            : "raspstephan@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:stephan.rasp@tum.de
+      url: mailto:raspstephan@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/raspstephan"
@@ -127,6 +127,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=vN2y_GEAAAAJ&hl"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/stephan-rasp-4154481aa/"
     # - label: "Newsletter"
     #   icon: "fas fa-fw fa-newspaper"
     #   url: "https://tinyletter.com/raspstephan"
@@ -137,7 +140,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:stephan.rasp@tum.de
+      url: mailto:raspstephan@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/raspstephan"
@@ -150,6 +153,9 @@ footer:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=vN2y_GEAAAAJ&hl"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/stephan-rasp-4154481aa/"
     # - label: "Newsletter"
     #   icon: "fas fa-fw fa-newspaper"
     #   url: "https://tinyletter.com/raspstephan"
@@ -220,7 +226,7 @@ sass:
 
 # Outputting
 permalink: /blog/:categories/:title/
-paginate: 3 # amount of posts to show
+paginate: 5 # amount of posts to show
 paginate_path: /blog/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 

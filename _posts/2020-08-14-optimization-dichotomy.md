@@ -5,6 +5,8 @@ date:   2020-08-13 00:00:00 -0000
 layout: single
 classes: wide
 author_profile: true
+header:
+  teaser: /assets/images/dichotomy.png
 ---
 
 The argument goes like this: Climate models continue to have large uncertainties → these uncertainties are primarily caused by the parameterization of sub-grid clouds which are based on heuristic assumptions → short-term high-resolution simulations are now possible→ so why not learn a parameterization directly from high-resolution data? 

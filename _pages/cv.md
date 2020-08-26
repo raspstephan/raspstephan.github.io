@@ -1,39 +1,39 @@
 ---
-title:  "Publications/CV"
+title:  "Publications/Talks"
 permalink: /publications/
 classes: wide
 ---
 
 ## Preprints
 
-**Rasp, S.**, Dueben, P. Scher, S., Weyn, J., Mouatadid, S., Thuerey, N., 2020. *WeatherBench: A benchmark dataset for data-driven weather forecasting*. arXiv [http://arxiv.org/abs/2002.00469](http://arxiv.org/abs/2002.00469)
-
-**Rasp, S.**, 2019. *Coupled online learning as a way to tackle instabilities and biases in neural network parameterizations: general algorithms and Lorenz 96 case study (v1. 0)*. Geoscientific Model Development Discussion Paper [https://www.geosci-model-dev-discuss.net/gmd-2019-319/](https://www.geosci-model-dev-discuss.net/gmd-2019-319/)
+**Rasp, S.** and Thuerey N., 2020. *Purely data-driven medium-range weather forecasting achieves comparable skill to physical models at similar resolution*. arXiv [https://arxiv.org/abs/2008.08626](https://arxiv.org/abs/2008.08626)
 
 Beucler, T., **Rasp, S.**, Pritchard, M. and Gentine, P., 2019. *Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling*. arXiv [https://arxiv.org/abs/1906.06622](http://arxiv.org/abs/1906.06622)
 
-**Rasp, S.**, Schulz, H., Bony, S. and Stevens, B., 2019. *Combining crowd-sourcing and deep learning to explore the meso-scale organization of shallow convection*. arXiv [https://arxiv.org/abs/1906.01906](https://arxiv.org/abs/1906.01906)
 
 ## Papers
 
-Zeng Y., Janjić T., de Lozar A., **Rasp S.**, Blahak U., Seifert A., Craig G., 2020. *Comparison of methods accounting for subgrid-scale model error in convective-scale data assimilation*. Monthly Weather Review, EOR. [https://doi.org/10.1175/MWR-D-19-0064.1](https://doi.org/10.1175/MWR-D-19-0064.1)
+**Rasp, S.**, Dueben, P. Scher, S., Weyn, J., Mouatadid, S., Thuerey, N., 2020. *WeatherBench: A benchmark dataset for data-driven weather forecasting*. Journal of Advances in Earth System Modeling. [http://arxiv.org/abs/2002.00469](http://arxiv.org/abs/2002.00469)
 
-Hirt, M., **Rasp, S.**, Blahak, U. and Craig, G., 2019. *Stochastic parameterization of processes leading to convection initiation in kilometre-scale models*. Monthly Weather Review, 147 (11), 3917-3934. [https://doi.org/10.1175/MWR-D-19-0060.1](https://doi.org/10.1175/MWR-D-19-0060.1)
+**Rasp, S.**, Schulz, H., Bony, S. and Stevens, B., 2020. *Combining crowd-sourcing and deep learning to explore the meso-scale organization of shallow convection*. Bulletin of the American Meteorological Society, EOR. [https://doi.org/10.1175/BAMS-D-19-0324.1](https://doi.org/10.1175/BAMS-D-19-0324.1)
 
-Keil, C., Baur, F., Bachmann, K., **Rasp, S.**, Schneider, L. and Barthlott, C., 2019. *Relative contribution of soil moisture, boundary layer and microphysical perturbations on convective predictability in different weather regimes* Quarterly Journal of the Royal Meteorological Society, 145 (724), 3102-3115. [https://doi.org/10.1002/qj.3607](https://doi.org/10.1002/qj.3607)
+**Rasp, S.**, 2020. *Coupled online learning as a way to tackle instabilities and biases in neural network parameterizations: general algorithms and Lorenz 96 case study (v1. 0)*. Geoscientific Model Development. [https://doi.org/10.5194/gmd-13-2185-2020](https://doi.org/10.5194/gmd-13-2185-2020)
 
-**Rasp, S.** and Lerch, S., 2018. *Neural networks for post-processing ensemble weather forecasts.* Monthly Weather Review, 146(11), 3885-3900. [https://doi.org/10.1175/MWR-D-18-0187.1](https://doi.org/10.1175/MWR-D-18-0187.1)
+Zeng Y., Janjić T., de Lozar A., **Rasp S.**, Blahak U., Seifert A., Craig G., 2020. *Comparison of methods accounting for subgrid-scale model error in convective-scale data assimilation*. Monthly Weather Review. [https://doi.org/10.1175/MWR-D-19-0064.1](https://doi.org/10.1175/MWR-D-19-0064.1)
 
-**Rasp, S.**, Pritchard, M. and Gentine, P., 2018. *Deep learning to represent sub-grid processes in climate models*. Proceedings of the National Academy of Sciences, 115(39), 9684-9689. [https://doi.org/10.1073/pnas.1810286115](https://doi.org/10.1073/pnas.1810286115)
+Hirt, M., **Rasp, S.**, Blahak, U. and Craig, G., 2019. *Stochastic parameterization of processes leading to convection initiation in kilometre-scale models*. Monthly Weather Review. [https://doi.org/10.1175/MWR-D-19-0060.1](https://doi.org/10.1175/MWR-D-19-0060.1)
 
-Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *Could machine learning break the convection parameterization deadlock?* Geophysical Research Letters, 45,5742–5751. [https://doi.org/10.1029/2018GL078202](https://doi.org/10.1029/2018GL078202)
+Keil, C., Baur, F., Bachmann, K., **Rasp, S.**, Schneider, L. and Barthlott, C., 2019. *Relative contribution of soil moisture, boundary layer and microphysical perturbations on convective predictability in different weather regimes* Quarterly Journal of the Royal Meteorological Society. [https://doi.org/10.1002/qj.3607](https://doi.org/10.1002/qj.3607)
 
-**Rasp, S.**, Selz, T. and Craig, G.C., 2018. *Variability and clustering of mid-latitude summertime convection: Testing the Craig and Cohen (2006) theory in a convection-permitting ensemble with stochastic boundary layer perturbations.* Journal of the Atmospheric Sciences, 75(2), 691-706. DOI: [http://dx.doi.org/10.1175/JAS-D-17-0258.1](http://dx.doi.org/10.1175/JAS-D-17-0258.1).
-[More information](https://raspstephan.github.io/research/#variability)
+**Rasp, S.** and Lerch, S., 2018. *Neural networks for post-processing ensemble weather forecasts.* Monthly Weather Review. [https://doi.org/10.1175/MWR-D-18-0187.1](https://doi.org/10.1175/MWR-D-18-0187.1)
 
-**Rasp, S.**, Selz, T. and Craig, G.C., 2016. *Convective and Slantwise Trajectory Ascent in Convection-Permitting Simulations of Midlatitude Cyclones.* Monthly Weather Review, 144(10), 3961-3976. DOI: [http://dx.doi.org/10.1175/MWR-D-16-0112.1](http://dx.doi.org/10.1175/MWR-D-16-0112.1)  
-[More information](https://www.en.meteo.physik.uni-muenchen.de/aktuelles/forschungshighlights_archiv/rasp_etal_2016_trajectories/index.html)
+**Rasp, S.**, Pritchard, M. and Gentine, P., 2018. *Deep learning to represent sub-grid processes in climate models*. Proceedings of the National Academy of Sciences. [https://doi.org/10.1073/pnas.1810286115](https://doi.org/10.1073/pnas.1810286115)
 
+Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *Could machine learning break the convection parameterization deadlock?* Geophysical Research Letters. [https://doi.org/10.1029/2018GL078202](https://doi.org/10.1029/2018GL078202)
+
+**Rasp, S.**, Selz, T. and Craig, G.C., 2018. *Variability and clustering of mid-latitude summertime convection: Testing the Craig and Cohen (2006) theory in a convection-permitting ensemble with stochastic boundary layer perturbations.* Journal of the Atmospheric Sciences. DOI: [http://dx.doi.org/10.1175/JAS-D-17-0258.1](http://dx.doi.org/10.1175/JAS-D-17-0258.1).
+
+**Rasp, S.**, Selz, T. and Craig, G.C., 2016. *Convective and Slantwise Trajectory Ascent in Convection-Permitting Simulations of Midlatitude Cyclones.* Monthly Weather Review. DOI: [http://dx.doi.org/10.1175/MWR-D-16-0112.1](http://dx.doi.org/10.1175/MWR-D-16-0112.1)
 
 
 ---
@@ -111,9 +111,14 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 
 ---
 
-## Education
+## Experience/Education
 
-*2019 - Current*  
+*2020 - current*  
+**Senior data scientist**, [ClimateAi](https://climate.ai/)
+
+
+
+*2019 - 2020*  
 **Postdoc**, TU Munich  
 *Group:* [Physics-based deep learning](https://ge.in.tum.de/about/n-thuerey/), Prof. Nils Thuerey   
 *Topic:* Figuring out how machine learning can actually improve weather and climate prediction
@@ -132,7 +137,6 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 [Project A6](http://www.w2w.meteo.physik.uni-muenchen.de/research_areas/a6/index.html) of the DFG Collaborative Research Project [Waves to Weather](http://www.w2w.meteo.physik.uni-muenchen.de)  
 *Advisor:* Prof. George C. Craig  
 *Topic:* Representing forecast uncertainty using stochastic physical prarameterizations
-
 
 *2012 - 2015*  
 **Master of Science in Meteorology**, LMU Munich  

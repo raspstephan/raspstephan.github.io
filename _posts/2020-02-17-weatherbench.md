@@ -5,11 +5,13 @@ date:   2020-02-16 00:00:00 -0000
 layout: single
 classes: wide
 author_profile: true
+header:
+  teaser: /assets/images/logo_text_left.png
 ---
 
-![animation]({{ site.url }}/assets/images/logo_text_left.png)
-
 It seems that in 2020 no domain of science is safe from the [AI hype](https://www.quantamagazine.org/how-artificial-intelligence-is-changing-science-20190311/). This also includes weather and climate science where publications and conferences on AI applications have skyrocketed in the last couple of years. It is understandable why such excitement exists: Since its explosion less that ten years ago modern AI, specifically deep learning, has achieved remarkable achievements for a wide range of tasks that require multi-dimensional nonlinear pattern recognition abilities. Many physical sciences deal with similar types of problems. Forecasting weather, for example, is a complex nonlinear 3D forecasting problem. Therefore, it’s only natural to ask whether AI can be used to predict weather. To answer this question, we compiled a benchmark dataset for data-driven weather forecasting, called WeatherBench.
+
+![animation]({{ site.url }}/assets/images/logo_text_left.png)
 
 ## How weather forecasting is done today
 Weather forecasting using computers has a long history. In fact, the first general purpose computer in the world was already used to [create a weather forecast in 1950](https://en.wikipedia.org/wiki/History_of_numerical_weather_prediction). Since then computers have become a lot more powerful but the principles at the heart of numerical weather forecasting are still the same. The starting point are the [equations](https://en.wikipedia.org/wiki/Primitive_equations) describing air flow, cloud formation, radiation and many more physical processes in the atmosphere. Because it would take way too long to simulate every single cloud droplet on the globe, scientists have to make [approximations](https://en.wikipedia.org/wiki/Parametrization_(atmospheric_modeling)) of the exact equations for every process smaller than the grid scale of the model, currently around 10km for a global weather forecast. Despite these approximations, numerical weather forecasting is a huge computational effort that keeps supercomputers around the world busy. Operational weather forecasts are [really good](https://www.nature.com/articles/nature14956) from a global point of view. However, there are certain events, for example heavy rainfall over Africa, for which state-of-the-art model still have basically [no skill](https://journals.ametsoc.org/doi/full/10.1175/WAF-D-17-0127.1). 

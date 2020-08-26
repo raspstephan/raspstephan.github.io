@@ -6,10 +6,10 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/  
   - title: "Blog"
     url: /blog/
-  - title: "Publications/CV"
+  - title: "Publications/Talks"
     url: /publications/ 
-  - title: "Press/Outreach"
-    url: /press/ 
+  # - title: "Press/Outreach"
+  #   url: /press/ 
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
