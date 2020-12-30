@@ -6,16 +6,22 @@ classes: wide
 
 ## Preprints
 
-**Rasp, S.** and Thuerey N., 2020. *Purely data-driven medium-range weather forecasting achieves comparable skill to physical models at similar resolution*. arXiv [https://arxiv.org/abs/2008.08626](https://arxiv.org/abs/2008.08626)
+Beucler, T. Ebert-Uphoff, I., **Rasp, S.**, Pritchard M. and Gentine, P., 2020. *Machine Learning for Clouds and Climate* (Invited Chapter for the AGU monograph Clouds and Climate). [Preprint](http://tbeucler.scripts.mit.edu/tbeucler/wp-content/uploads/2020/11/ML_for_Clouds_and_Climate_2020_11_26.pdf)
+
+Ruckstuhl, Y., Janjic, T., and **Rasp, S.**, 2020. *Training a convolutional neural network to conserve mass in data assimilation.* Nonlin. Processes Geophys. Discuss., [https://doi.org/10.5194/npg-2020-38](https://doi.org/10.5194/npg-2020-38)
+
+**Rasp, S.** and Thuerey N., 2020. *Data-driven medium-range weather prediction with a Resnet pretrained on climate simulations: A new model for WeatherBench*. arXiv [https://arxiv.org/abs/2008.08626](https://arxiv.org/abs/2008.08626)
 
 Beucler, T., **Rasp, S.**, Pritchard, M. and Gentine, P., 2019. *Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling*. arXiv [https://arxiv.org/abs/1906.06622](http://arxiv.org/abs/1906.06622)
 
 
 ## Papers
 
+Seifert, A. and **Rasp, S.**, 2020. *Potential and Limitations of Machine Learning for Modeling Warm‐Rain Cloud Microphysical Processes*. Journal of Advances in Earth System Modeling. [https://doi.org/10.1029/2020MS002301](https://doi.org/10.1029/2020MS002301)
+
 **Rasp, S.**, Dueben, P. Scher, S., Weyn, J., Mouatadid, S., Thuerey, N., 2020. *WeatherBench: A benchmark dataset for data-driven weather forecasting*. Journal of Advances in Earth System Modeling. [http://arxiv.org/abs/2002.00469](http://arxiv.org/abs/2002.00469)
 
-**Rasp, S.**, Schulz, H., Bony, S. and Stevens, B., 2020. *Combining crowd-sourcing and deep learning to explore the meso-scale organization of shallow convection*. Bulletin of the American Meteorological Society, EOR. [https://doi.org/10.1175/BAMS-D-19-0324.1](https://doi.org/10.1175/BAMS-D-19-0324.1)
+**Rasp, S.**, Schulz, H., Bony, S. and Stevens, B., 2020. *Combining crowd-sourcing and deep learning to explore the meso-scale organization of shallow convection*. Bulletin of the American Meteorological Society. [https://doi.org/10.1175/BAMS-D-19-0324.1](https://doi.org/10.1175/BAMS-D-19-0324.1)
 
 **Rasp, S.**, 2020. *Coupled online learning as a way to tackle instabilities and biases in neural network parameterizations: general algorithms and Lorenz 96 case study (v1. 0)*. Geoscientific Model Development. [https://doi.org/10.5194/gmd-13-2185-2020](https://doi.org/10.5194/gmd-13-2185-2020)
 
@@ -42,6 +48,9 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 
 *Invited talks*
 
+**AI for Earth Sciences Workshop, NeurIPS**, Online, December 2020    
+Keynote: *Why Benchmarks are Crucial for Progress in AI and How to Design Good Ones for Earth Science*, [Video](https://slideslive.com/38938428/why-benchmarks-are-crucial-for-progress-in-ai-and-how-to-design-good-one-for-es)
+
 [**Machine Learning for Weather and Climate Modelling**](http://users.ox.ac.uk/~phys0895/mlwc2019/index.html), Oxford, UK, September 2019    
 *Improving Models with Machine Learning Parameterizations: Status Quo vs. Real Progress* [Slides](https://drive.google.com/open?id=18saJQCz4O0aGRTv6e0_5WVpMego0buKx)
 
@@ -67,6 +76,10 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 *Machine learning to represent atmospheric sub-grid processes*  
 
 *Conferences*
+
+
+**American Geophysical Union Fall Meeting**, Online, December 2020  
+*Data-driven Medium-range Weather Prediction Achieves Comparable Skill to Dynamical Models. But What Does It Mean?*, Virtual Poster 
 
 **Understanding Clouds and Precipitation**, Berlin, Germany, February 2019
 *Sugar, Flower, Fish or Gravel - Cloud classification from humans to machines*, Talk
@@ -99,8 +112,12 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 
 ## Workshops
 
+**Waves 2 Weather Early Career Scientists**, Online, October 2020    
+*Three-day workshop on machine learning and AI* [Link](https://www.wavestoweather.de/meetings/ecs-ml-workshop2020/index.html)
+
+
 **Waves 2 Weather Early Career Scientists**, Zugspitze, Germany, September 2018    
-*Three-day workshop on machine learning and neural netoworks in Python* [Link](http://w2w.meteo.physik.uni-muenchen.de/meetings/workshop_neural_networks_sep18/index.html)
+*Three-day workshop on machine learning and neural networks in Python* [Link](http://w2w.meteo.physik.uni-muenchen.de/meetings/workshop_neural_networks_sep18/index.html)
 
 **Max-Planck-Institute for Meteorology**, Hamburg, Germany, July 2018  
 *One-day workshop on neural networks in Python*
