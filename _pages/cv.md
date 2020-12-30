@@ -12,7 +12,7 @@ Ruckstuhl, Y., Janjic, T., and **Rasp, S.**, 2020. *Training a convolutional neu
 
 **Rasp, S.** and Thuerey N., 2020. *Data-driven medium-range weather prediction with a Resnet pretrained on climate simulations: A new model for WeatherBench*. arXiv [https://arxiv.org/abs/2008.08626](https://arxiv.org/abs/2008.08626)
 
-Beucler, T., **Rasp, S.**, Pritchard, M. and Gentine, P., 2019. *Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling*. arXiv [https://arxiv.org/abs/1906.06622](http://arxiv.org/abs/1906.06622)
+Beucler, T., Pritchard, M., **Rasp, S.**,  Ott, J., Baldi, P. and Gentine, P., 2020. *Enforcing Analytic Constraints in Neural-Networks Emulating Physical Systems*. arXiv [https://arxiv.org/abs/1909.00912](https://arxiv.org/abs/1909.00912)
 
 
 ## Papers
