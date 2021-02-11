@@ -8,14 +8,14 @@ classes: wide
 
 Beucler, T. Ebert-Uphoff, I., **Rasp, S.**, Pritchard M. and Gentine, P., 2020. *Machine Learning for Clouds and Climate* (Invited Chapter for the AGU monograph Clouds and Climate). [Preprint](http://tbeucler.scripts.mit.edu/tbeucler/wp-content/uploads/2020/11/ML_for_Clouds_and_Climate_2020_11_26.pdf)
 
-Ruckstuhl, Y., Janjic, T., and **Rasp, S.**, 2020. *Training a convolutional neural network to conserve mass in data assimilation.* Nonlin. Processes Geophys. Discuss., [https://doi.org/10.5194/npg-2020-38](https://doi.org/10.5194/npg-2020-38)
-
-**Rasp, S.** and Thuerey N., 2020. *Data-driven medium-range weather prediction with a Resnet pretrained on climate simulations: A new model for WeatherBench*. arXiv [https://arxiv.org/abs/2008.08626](https://arxiv.org/abs/2008.08626)
-
-Beucler, T., Pritchard, M., **Rasp, S.**,  Ott, J., Baldi, P. and Gentine, P., 2020. *Enforcing Analytic Constraints in Neural-Networks Emulating Physical Systems*. arXiv [https://arxiv.org/abs/1909.00912](https://arxiv.org/abs/1909.00912)
-
 
 ## Papers
+
+Ruckstuhl, Y., Janjic, T., and **Rasp, S.**, 2020. *Training a convolutional neural network to conserve mass in data assimilation.* Nonlin. Processes Geophys., accepted, [https://doi.org/10.5194/npg-2020-38](https://doi.org/10.5194/npg-2020-38)
+
+Beucler, T., Pritchard, M., **Rasp, S.**,  Ott, J., Baldi, P. and Gentine, P., 2020. *Enforcing Analytic Constraints in Neural-Networks Emulating Physical Systems*. Physical Review Letters, accepted. [https://arxiv.org/abs/1909.00912](https://arxiv.org/abs/1909.00912)
+
+**Rasp, S.** and Thuerey N., 2020. *Data-driven medium-range weather prediction with a Resnet pretrained on climate simulations: A new model for WeatherBench*. Journal of Advances in Earth System Modeling. [https://doi.org/10.1029/2020MS002405](https://doi.org/10.1029/2020MS002405)
 
 Seifert, A. and **Rasp, S.**, 2020. *Potential and Limitations of Machine Learning for Modeling Warm‐Rain Cloud Microphysical Processes*. Journal of Advances in Earth System Modeling. [https://doi.org/10.1029/2020MS002301](https://doi.org/10.1029/2020MS002301)
 
@@ -47,6 +47,13 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 ## Talks and conference presentations
 
 *Invited talks*
+
+[**CWI SEMINAR FOR MACHINE LEARNING AND UQ IN SCIENTIFIC COMPUTING**](https://www.cwi.nl/research/groups/scientific-computing/uq-seminar/seminar-ml-uq-sc), Online, February 2021    
+*Hybrid machine learning-physics climate modeling: Challenges and potential solutions*, [Slides](https://drive.google.com/file/d/13exJrRwwfz0rpLm-cyw5fP-fXuaTcCLX/view?usp=sharing)
+
+
+[**One World Mathematics of Climate**](https://sites.google.com/view/oneworldmathsofclimate/home?authuser=0), Online, February 2021    
+*The optimization dichotomy: Why is it so hard to improve climate models with machine learning?*, [Video](https://youtu.be/HWKkyGq5jKI)
 
 **AI for Earth Sciences Workshop, NeurIPS**, Online, December 2020    
 Keynote: *Why Benchmarks are Crucial for Progress in AI and How to Design Good Ones for Earth Science*, [Video](https://slideslive.com/38938428/why-benchmarks-are-crucial-for-progress-in-ai-and-how-to-design-good-one-for-es)
