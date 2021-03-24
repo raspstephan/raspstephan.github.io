@@ -6,20 +6,20 @@ classes: wide
 
 ## Preprints
 
-Beucler, T. Ebert-Uphoff, I., **Rasp, S.**, Pritchard M. and Gentine, P., 2020. *Machine Learning for Clouds and Climate* (Invited Chapter for the AGU monograph Clouds and Climate). [Preprint](http://tbeucler.scripts.mit.edu/tbeucler/wp-content/uploads/2020/11/ML_for_Clouds_and_Climate_2020_11_26.pdf)
+Beucler, T. Ebert-Uphoff, I., **Rasp, S.**, Pritchard M. and Gentine, P., 2021. *Machine Learning for Clouds and Climate* (Invited Chapter for the AGU monograph Clouds and Climate). [Preprint](http://tbeucler.scripts.mit.edu/tbeucler/wp-content/uploads/2020/11/ML_for_Clouds_and_Climate_2020_11_26.pdf)
 
 
 ## Papers
 
-Ruckstuhl, Y., Janjic, T., and **Rasp, S.**, 2020. *Training a convolutional neural network to conserve mass in data assimilation.* Nonlin. Processes Geophys., accepted, [https://doi.org/10.5194/npg-2020-38](https://doi.org/10.5194/npg-2020-38)
+Ruckstuhl, Y., Janjic, T., and **Rasp, S.**, 2021. *Training a convolutional neural network to conserve mass in data assimilation.* Nonlin. Processes Geophys, [https://doi.org/10.5194/npg-28-111-2021](https://doi.org/10.5194/npg-28-111-2021)
 
-Beucler, T., Pritchard, M., **Rasp, S.**,  Ott, J., Baldi, P. and Gentine, P., 2020. *Enforcing Analytic Constraints in Neural-Networks Emulating Physical Systems*. Physical Review Letters, accepted. [https://arxiv.org/abs/1909.00912](https://arxiv.org/abs/1909.00912)
+Beucler, T., Pritchard, M., **Rasp, S.**,  Ott, J., Baldi, P. and Gentine, P., 2021. *Enforcing Analytic Constraints in Neural-Networks Emulating Physical Systems*. Physical Review Letters, accepted. [https://doi.org/10.1103/PhysRevLett.126.098302](https://doi.org/10.1103/PhysRevLett.126.098302)
 
 **Rasp, S.** and Thuerey N., 2020. *Data-driven medium-range weather prediction with a Resnet pretrained on climate simulations: A new model for WeatherBench*. Journal of Advances in Earth System Modeling. [https://doi.org/10.1029/2020MS002405](https://doi.org/10.1029/2020MS002405)
 
 Seifert, A. and **Rasp, S.**, 2020. *Potential and Limitations of Machine Learning for Modeling Warm‐Rain Cloud Microphysical Processes*. Journal of Advances in Earth System Modeling. [https://doi.org/10.1029/2020MS002301](https://doi.org/10.1029/2020MS002301)
 
-**Rasp, S.**, Dueben, P. Scher, S., Weyn, J., Mouatadid, S., Thuerey, N., 2020. *WeatherBench: A benchmark dataset for data-driven weather forecasting*. Journal of Advances in Earth System Modeling. [http://arxiv.org/abs/2002.00469](http://arxiv.org/abs/2002.00469)
+**Rasp, S.**, Dueben, P. Scher, S., Weyn, J., Mouatadid, S., Thuerey, N., 2020. *WeatherBench: A benchmark dataset for data-driven weather forecasting*. Journal of Advances in Earth System Modeling. [https://doi.org/10.1029/2020MS002203](https://doi.org/10.1029/2020MS002203)
 
 **Rasp, S.**, Schulz, H., Bony, S. and Stevens, B., 2020. *Combining crowd-sourcing and deep learning to explore the meso-scale organization of shallow convection*. Bulletin of the American Meteorological Society. [https://doi.org/10.1175/BAMS-D-19-0324.1](https://doi.org/10.1175/BAMS-D-19-0324.1)
 
@@ -48,7 +48,13 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 
 *Invited talks*
 
-[**CWI SEMINAR FOR MACHINE LEARNING AND UQ IN SCIENTIFIC COMPUTING**](https://www.cwi.nl/research/groups/scientific-computing/uq-seminar/seminar-ml-uq-sc), Online, February 2021    
+[**Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling**](https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling), Online, March 2021    
+*The optimization dichotomy: Why is it so hard to improve climate models with machine learning?*
+
+**Scaling Cascades in Complex Systems**, Online, March 2021    
+*The optimization dichotomy: Why is it so hard to improve climate models with machine learning?*
+
+[**CWI SEMINAR FOR MACHINE LEARNING AND UQ IN SCIENTIFIC COMPUTING**](https://www.cwi.nl/research/groups/scientific-computing/uq-seminar/seminar-ml-uq-sc), Online, February 2021        
 *Hybrid machine learning-physics climate modeling: Challenges and potential solutions*, [Slides](https://drive.google.com/file/d/13exJrRwwfz0rpLm-cyw5fP-fXuaTcCLX/view?usp=sharing)
 
 
