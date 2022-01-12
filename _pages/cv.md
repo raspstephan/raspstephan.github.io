@@ -144,11 +144,11 @@ Keynote: *Why Benchmarks are Crucial for Progress in AI and How to Design Good O
 ## Experience/Education
 
 *2022 - now*  
-**Lead data scientist**, [ClimateAi](https://climate.ai/)
+**Lead data scientist**, [ClimateAi](https://climate.ai/)    
 Remote
 
 *2020 - 2021*  
-**Senior data scientist**, [ClimateAi](https://climate.ai/)
+**Senior data scientist**, [ClimateAi](https://climate.ai/)    
 Remote
 
 
