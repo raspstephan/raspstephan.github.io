@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Stephan Rasp"
   avatar           : "/assets/images/new_portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Senior data scientist <a href='https://climate.ai/'>@ClimateAi</a>"
+  bio              : "Lead data scientist <a href='https://climate.ai/'>@ClimateAi</a>"
   location         : "Munich, Germany"
   # email            : "raspstephan@gmail.com"
   links:
