@@ -4,12 +4,15 @@ permalink: /publications/
 classes: wide
 ---
 
-## Preprints
+## Publications
+
+Price, I. and **Rasp, S.**, 2022. *Increasing the accuracy and resolution of precipitation forecasts using deep generative models*. AISTATS 2022. [https://arxiv.org/abs/2203.12297](https://arxiv.org/abs/2203.12297).
+
+Beucler, T., Pritchard, P., Yuva, J., Gupta, A., Peng, L., **Rasp, S.**, Ahmed, F., O'Gorman, P., Neelin, D., Lutsko, N. and Gentine, P., 2021. *Climate-Invariant Machine Learning*. Arxiv. [https://arxiv.org/abs/2112.08440](https://arxiv.org/abs/2112.08440).
+
+Kriegmair, R., Ruckstuhl, Y., **Rasp, S.*, Craig, G., 2021. *Using neural networks to improve simulations in the gray zone*. Nonlinear Processes in Geophysics Discussions. [https://doi.org/10.5194/npg-2021-20](https://doi.org/10.5194/npg-2021-20)
 
 Beucler, T. Ebert-Uphoff, I., **Rasp, S.**, Pritchard M. and Gentine, P., 2021. *Machine Learning for Clouds and Climate* (Invited Chapter for the AGU monograph Clouds and Climate). [Preprint](http://tbeucler.scripts.mit.edu/tbeucler/wp-content/uploads/2020/11/ML_for_Clouds_and_Climate_2020_11_26.pdf)
-
-
-## Papers
 
 Ruckstuhl, Y., Janjic, T., and **Rasp, S.**, 2021. *Training a convolutional neural network to conserve mass in data assimilation.* Nonlin. Processes Geophys, [https://doi.org/10.5194/npg-28-111-2021](https://doi.org/10.5194/npg-28-111-2021)
 
