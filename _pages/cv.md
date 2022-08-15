@@ -1,5 +1,5 @@
 ---
-title:  "Publications/Talks"
+title:  "Publications/CV"
 permalink: /publications/
 classes: wide
 ---
@@ -147,6 +147,10 @@ Keynote: *Why Benchmarks are Crucial for Progress in AI and How to Design Good O
 ## Experience/Education
 
 *2022 - now*  
+**Senior research scientist**, [Google Research](https://research.google/)    
+Remote
+
+*2022 - 2022*  
 **Lead data scientist**, [ClimateAi](https://climate.ai/)    
 Remote
 
