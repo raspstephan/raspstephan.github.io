@@ -6,11 +6,17 @@ classes: wide
 
 ## Publications
 
-Price, I. and **Rasp, S.**, 2022. *Increasing the accuracy and resolution of precipitation forecasts using deep generative models*. AISTATS 2022. [https://arxiv.org/abs/2203.12297](https://arxiv.org/abs/2203.12297).
+*Blanusa, M., Lopez-Zurita, C.* and **Rasp, S.**, 2022. *The role of internal variability in global climate projections of extreme events*. [Preprint](https://arxiv.org/abs/2208.08275)
+
+Robertson, A., **et al.**, 2022. *Outcomes of the WMO Prize Challenge to Improve Sub-Seasonal to Seasonal Predictions Using Artificial Intelligence*. Bulletin of the American Meteorological Society. [https://doi.org/10.1175/BAMS-D-22-0046.1](https://doi.org/10.1175/BAMS-D-22-0046.1)
+
+*Price, I.* and **Rasp, S.**, 2022. *Increasing the accuracy and resolution of precipitation forecasts using deep generative models*. AISTATS 2022. [https://arxiv.org/abs/2203.12297](https://arxiv.org/abs/2203.12297).
+
+*Garg, S.*, **Rasp, S.** and Thuerey, N., 2022. *WeatherBench Probability: A benchmark dataset for probabilistic medium-range weather forecasting along with deep learning baseline models*. [Preprint](https://arxiv.org/abs/2205.00865)
 
 Beucler, T., Pritchard, P., Yuva, J., Gupta, A., Peng, L., **Rasp, S.**, Ahmed, F., O'Gorman, P., Neelin, D., Lutsko, N. and Gentine, P., 2021. *Climate-Invariant Machine Learning*. Arxiv. [https://arxiv.org/abs/2112.08440](https://arxiv.org/abs/2112.08440).
 
-Kriegmair, R., Ruckstuhl, Y., **Rasp, S.*, Craig, G., 2021. *Using neural networks to improve simulations in the gray zone*. Nonlinear Processes in Geophysics Discussions. [https://doi.org/10.5194/npg-2021-20](https://doi.org/10.5194/npg-2021-20)
+*Kriegmair, R.*, Ruckstuhl, Y., **Rasp, S.**, Craig, G., 2021. *Using neural networks to improve simulations in the gray zone*. Nonlinear Processes in Geophysics Discussions. [https://doi.org/10.5194/npg-2021-20](https://doi.org/10.5194/npg-2021-20)
 
 Beucler, T. Ebert-Uphoff, I., **Rasp, S.**, Pritchard M. and Gentine, P., 2021. *Machine Learning for Clouds and Climate* (Invited Chapter for the AGU monograph Clouds and Climate). [Preprint](http://tbeucler.scripts.mit.edu/tbeucler/wp-content/uploads/2020/11/ML_for_Clouds_and_Climate_2020_11_26.pdf)
 
@@ -44,6 +50,8 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 
 **Rasp, S.**, Selz, T. and Craig, G.C., 2016. *Convective and Slantwise Trajectory Ascent in Convection-Permitting Simulations of Midlatitude Cyclones.* Monthly Weather Review. DOI: [http://dx.doi.org/10.1175/MWR-D-16-0112.1](http://dx.doi.org/10.1175/MWR-D-16-0112.1)
 
+
+*Italics* denote people I supervised.
 
 ---
 
@@ -147,15 +155,15 @@ Keynote: *Why Benchmarks are Crucial for Progress in AI and How to Design Good O
 ## Experience/Education
 
 *2022 - now*  
-**Senior research scientist**, [Google Research](https://research.google/)    
-Remote
+**Senior Research Scientist**, [Google Research](https://research.google/)    
+Munich, Germany
 
 *2022 - 2022*  
-**Lead data scientist**, [ClimateAi](https://climate.ai/)    
+**Lead Data Scientist**, [ClimateAi](https://climate.ai/)    
 Remote
 
 *2020 - 2021*  
-**Senior data scientist**, [ClimateAi](https://climate.ai/)    
+**Senior Data Scientist**, [ClimateAi](https://climate.ai/)    
 Remote
 
 

@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Stephan Rasp"
   avatar           : "/assets/images/new_portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Senior research scientist at Google"
+  bio              : "Senior Research Scientist at Google"
   location         : "Munich, Germany"
   # email            : "raspstephan@gmail.com"
   links:
