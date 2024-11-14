@@ -6,15 +6,19 @@ classes: wide
 
 ## Publications
 
-*Blanusa, M., Lopez-Zurita, C.* and **Rasp, S.**, 2022. *The role of internal variability in global climate projections of extreme events*. [Preprint](https://arxiv.org/abs/2208.08275)
+Kochkov, D., Yuval, J., Langmore, I., Norgaard, P., Smith, J., Mooers, G., Klöwer, M., Lottes, J., **Rasp, S.**, Düben, P., Hatfield, S., Battaglia, P., Sanchez-Gonzalez, A., Willson, M., Brenner, M.P. & Hoyer, S., 2024. *Neural general circulation models for weather and climate*. Nature. [https://doi.org/10.1038/s41586-024-07744-y](https://doi.org/10.1038/s41586-024-07744-y)
+
+**Rasp, S.**, Hoyer, S., Merose, A., Langmore, I., Battaglia, P., Russell, T., Sanchez‐Gonzalez, A., Yang, V., Carver, R., Agrawal, S., Chantry, M., Ben Bouallegue, Z., Dueben, P., Bromberg, C., Sisk, J., Barrington, L., Bell, A. and Sha, F., 2024. *WeatherBench 2: A benchmark for the next generation of data‐driven global weather models.* Journal of Advances in Earth System Modeling. [https://doi.org/10.1029/2023MS004019](https://doi.org/10.1029/2023MS004019)
+
+Beucler, T., Pritchard, P., Yuva, J., Gupta, A., Peng, L., **Rasp, S.**, Ahmed, F., O'Gorman, P., Neelin, D., Lutsko, N. and Gentine, P., 2021. *Climate-Invariant Machine Learning*. Science Advances. [https://doi.org/10.1126/sciadv.adj7250](https://doi.org/10.1126/sciadv.adj7250).
+
+*Blanusa, M., Lopez-Zurita, C.* and **Rasp, S.**, 2022. *Internal variability plays a dominant role in global climate projections of temperature and precipitation extremes*. Climate Dynamics. [https://doi.org/10.1007/s00382-023-06664-3](https://doi.org/10.1007/s00382-023-06664-3), [ArXiv](https://arxiv.org/abs/2208.08275)
 
 Robertson, A., **et al.**, 2022. *Outcomes of the WMO Prize Challenge to Improve Sub-Seasonal to Seasonal Predictions Using Artificial Intelligence*. Bulletin of the American Meteorological Society. [https://doi.org/10.1175/BAMS-D-22-0046.1](https://doi.org/10.1175/BAMS-D-22-0046.1)
 
 *Price, I.* and **Rasp, S.**, 2022. *Increasing the accuracy and resolution of precipitation forecasts using deep generative models*. AISTATS 2022. [https://arxiv.org/abs/2203.12297](https://arxiv.org/abs/2203.12297).
 
 *Garg, S.*, **Rasp, S.** and Thuerey, N., 2022. *WeatherBench Probability: A benchmark dataset for probabilistic medium-range weather forecasting along with deep learning baseline models*. [Preprint](https://arxiv.org/abs/2205.00865)
-
-Beucler, T., Pritchard, P., Yuva, J., Gupta, A., Peng, L., **Rasp, S.**, Ahmed, F., O'Gorman, P., Neelin, D., Lutsko, N. and Gentine, P., 2021. *Climate-Invariant Machine Learning*. Arxiv. [https://arxiv.org/abs/2112.08440](https://arxiv.org/abs/2112.08440).
 
 *Kriegmair, R.*, Ruckstuhl, Y., **Rasp, S.**, Craig, G., 2021. *Using neural networks to improve simulations in the gray zone*. Nonlinear Processes in Geophysics Discussions. [https://doi.org/10.5194/npg-2021-20](https://doi.org/10.5194/npg-2021-20)
 
@@ -58,6 +62,10 @@ Gentine, P., Pritchard, M., **Rasp, S.**, Reinaudi, G. and Yacalis, G., 2018. *C
 ## Talks and conference presentations
 
 *Invited talks*
+
+**ISDA Online**, January 2024. *The second revolution in numerical weather prediction.* [Video](https://www.youtube.com/watch?v=CoiVfwJU4TY)
+
+**AI for Good**, November 2023. *WeatherBench 2 and the second revolution of weather prediction.* [Video](https://www.youtube.com/watch?v=XSULa3xGORU)
 
 [**Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling**](https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling), Online, March 2021    
 *The optimization dichotomy: Why is it so hard to improve climate models with machine learning?*

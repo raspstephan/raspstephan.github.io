@@ -23,7 +23,7 @@ name                     : "Stephan Rasp"
 url                      : "https://raspstephan.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/new_portrait.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/Portrait_BW.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/SR.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Stephan Rasp"
-  avatar           : "/assets/images/new_portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Portrait_BW.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Senior Research Scientist at Google"
   location         : "Munich, Germany"
   # email            : "raspstephan@gmail.com"
@@ -121,9 +121,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/raspstephan"
-    - label: "Researchgate"
-      icon: "fab fa-fw fa-researchgate"
-      url: "https://researchgate.net/profile/Stephan_Rasp"
+    # - label: "Researchgate"
+    #   icon: "fab fa-fw fa-researchgate"
+    #   url: "https://researchgate.net/profile/Stephan_Rasp"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=vN2y_GEAAAAJ&hl"
@@ -140,16 +140,16 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:raspstephan@gmail.com
+      url: mailto:raspstephan_at_gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/raspstephan"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/raspstephan"
-    - label: "Researchgate"
-      icon: "fab fa-fw fa-researchgate"
-      url: "https://researchgate.net/profile/Stephan_Rasp"
+    # - label: "Researchgate"
+    #   icon: "fab fa-fw fa-researchgate"
+    #   url: "https://researchgate.net/profile/Stephan_Rasp"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=vN2y_GEAAAAJ&hl"
