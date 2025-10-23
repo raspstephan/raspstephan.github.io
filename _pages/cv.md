@@ -5,6 +5,7 @@ classes: wide
 ---
 
 ## Publications
+*Agrawal, S.*, **et al.**, 2025. *An Operational Deep Learning System for Satellite-Based High-Resolution Global Nowcasting*. [Preprint](https://arxiv.org/abs/2510.13050)
 
 Kochkov, D., Yuval, J., Langmore, I., Norgaard, P., Smith, J., Mooers, G., Klöwer, M., Lottes, J., **Rasp, S.**, Düben, P., Hatfield, S., Battaglia, P., Sanchez-Gonzalez, A., Willson, M., Brenner, M.P. & Hoyer, S., 2024. *Neural general circulation models for weather and climate*. Nature. [https://doi.org/10.1038/s41586-024-07744-y](https://doi.org/10.1038/s41586-024-07744-y)
 
@@ -162,7 +163,11 @@ Keynote: *Why Benchmarks are Crucial for Progress in AI and How to Design Good O
 
 ## Experience/Education
 
-*2022 - now*  
+*2025 - current*  
+**Staff Research Scientist**, [Google DeepMind](https://deepmind.google/)    
+Munich, Germany
+
+*2022 - 2025*  
 **Senior Research Scientist**, [Google Research](https://research.google/)    
 Munich, Germany
 
